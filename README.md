@@ -37,8 +37,8 @@
 ## Entorno de desarrollo
 
 Aunque no lo parezca, es importante elegir un entorno de desarrollo (Editor de código o IDE), ya que ahi es donde estarás siempre que programes y el conocer bien tu IDE, hará que programes de una forma mas cómoda y rápida, para elegir uno, hay varios factores a considerar:
-f
-* El lenguaje de programación que vas a utilizar: Algunos IDEs son especializados en ciertos lenguajes de programación, por lo que es importante elegir uno que soporte el lenguaje que deseas utilizar.
+
+* El lenguaje de programación que vas a utilizar: Algunos IDE's son especializados en ciertos lenguajes de programación, por lo que es importante elegir uno que soporte el lenguaje que deseas utilizar.
 
 * La facilidad de uso: Un IDE intuitivo te permitirá programar de manera más eficiente y cómoda.
 
@@ -50,7 +50,11 @@ f
 
 *Es recomendable probar varios IDEs antes de tomar una decisión final. Puedes descargar versiones de prueba o utilizar versiones gratuitas para probarlos y ver cuál se adapta mejor a tus necesidades.*
 
-*En mi caso usare Intellij IDEA, que es el IDE para Kotlin, pero se puede usar cualquier otro IDE o editor de código para este lenguaje o cualquiera que elijas.*
+```
+En mi caso usare Intellij IDEA, que es el IDE para Kotlin,
+pero se puede usar cualquier otro IDE o editor de código 
+para este lenguaje o cualquiera que elijas.
+```
 
 Para este repositorio, los ejercicios de ejemplo serán resueltos en [Kotlin](https://kotlinlang.org/) y puedes ingresar [aquí](https://play.kotlinlang.org/) y probar dichos ejemplos.
 
@@ -59,7 +63,7 @@ Para este repositorio, los ejercicios de ejemplo serán resueltos en [Kotlin](ht
 Aquí hay una lista de roadmaps que te pueden ayudar a continuar con tu aprendizaje dependiendo de la rama de programación que hayas elegido.
 
 * [Desarrollo web (FrontEnd)](https://github.com/Z8264/frontend-developer-roadmap): HTML, CSS, JavaScript, React, Angular, Vue.js
-* [Desarrollo web (BackEnd)](https://github.com/Abanoub-Asaad/Java-Backend): Python, Java, C#, Ruby, PHP, Go
+* [Desarrollo web (BackEnd)](https://github.com/Abanoub-Asaad/Java-Backend): Python, Java, C#, Ruby, PHP, Go, Kotlin.
 * [Ciencia de datos](https://github.com/DataScienceResearchPeru/OpenSource-RoadMap-DataScience): Python, R, SAS, SQL, Julia
 * [Inteligencia artificial](https://github.com/AMAI-GmbH/AI-Expert-Roadmap): Python, R, Java, C++
 * [Programación móvil (IOS)](https://github.com/mouredev/Apple-Developer-Roadmap): Swift.
@@ -88,36 +92,22 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 
 ### 1. Declaración de variables
 
-* Tipos de datos en Kotlin (enteros, flotantes, booleanos, cadenas, etc.):
+
 * Declaración de variables con "var" y "val":
-* Diferencias entre "var" y "val":
 * Asignación de valores a variables en Kotlin:
 * Inicialización de variables en Kotlin:
-* Null Safety en Kotlin:
-* Uso de "?." y "!!" en Kotlin para evitar el NullPointerException:
-* Declaración de variables sin tipo (Any, Any?, Unit):
-* Conversión de tipos de datos en Kotlin (toInt(), toDouble(), etc.):
+* Tipos de datos en Kotlin (enteros, flotantes, booleanos, cadenas, etc.):
 * Uso de "is" y "as" para comprobación y conversión de tipos en Kotlin:
+* Conversión de tipos de datos en Kotlin (toInt(), toDouble(), etc.):
 * Operadores de comparación en Kotlin (==, !=, >, <, etc.):
 * Operadores de asignación en Kotlin (+=, -=, etc.)
 * Concatenación de cadenas en Kotlin (con "+" y con "$")
 * Interpolación de cadenas en Kotlin (con "\${ }" y con "$"):
+* Null Safety en Kotlin:
+* Uso de "?." y "!!" en Kotlin para evitar el NullPointerException:
+* Declaración de variables sin tipo (Any, Any?, Unit):
 
-### 2. Funciones
-
-* Declaración de funciones:
-* Parámetros y valores de retorno:
-* Funciones con nombre:
-* Funciones con expresiones lambda:
-* Funciones con parámetros opcionales y valores por defecto:
-* Funciones anidadas:
-* Funciones con ámbito de bloque:
-* Funciones inlining:
-* Funciones con parámetros variables:
-* Funciones con parámetros de tipo clase genérica:
-* Funciones de extensión:
-
-### 3. Estructuras condicionales
+### 2. Estructuras condicionales
 
 * Sentencia "if":
 * Sentencia "when":
@@ -130,7 +120,7 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 * Uso de la palabra clave "continue" en estructuras de control de flujo:
 * Diferencias entre "break" y "continue":
 
-### 4. Bucles
+### 3. Bucles
 
 * Bucles "for":
 * Bucles "for each":
@@ -146,3 +136,18 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 * Bucles "do-while" anidados:
 * Uso de la palabra clave "return" para salir de una función dentro de un bucle:
 * Bucles infinitos:
+
+
+### 4. Funciones
+
+* Declaración de funciones:
+* Parámetros y valores de retorno:
+* Funciones con nombre:
+* Funciones con expresiones lambda:
+* Funciones con parámetros opcionales y valores por defecto:
+* Funciones anidadas:
+* Funciones con ámbito de bloque:
+* Funciones inlining:
+* Funciones con parámetros variables:
+* Funciones con parámetros de tipo clase genérica:
+* Funciones de extensión:
