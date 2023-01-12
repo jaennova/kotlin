@@ -1,6 +1,6 @@
 # Aprende Kotlin con ejercicios
 
-![banner](/banner.png)
+![banner](/bannerr.png)
 
 ## Introducción
 
