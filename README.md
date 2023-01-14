@@ -67,10 +67,11 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 ### 1. Declaración de variables
 
 
-* Declaración de variables con "var" y "val":
-* Asignación de valores a variables en Kotlin:
+* Declaración de variables con "var" y "val":  [[uso]](/declaracion%20de%20variables/variables-val-y-var.kt) 
+[[enunciados]](https://gist.github.com/jaennova/8dde5fe1b5d83b391844e6e9ca352a2d)
+* Asignación de valores a variables en Kotlin: 
 * Inicialización de variables en Kotlin:
-* Tipos de datos en Kotlin (enteros, flotantes, booleanos, cadenas, etc.): [[uso]](src/main/kotlin/TiposDeDatos.kt) [[practica]](https://gist.github.com/jaennova/22c22670bf9ab3e64e21a6fb7f5e2cf4)
+* Tipos de datos en Kotlin (enteros, flotantes, booleanos, cadenas, etc.)
 * Uso de "is" y "as" para comprobación y conversión de tipos en Kotlin:
 * Conversión de tipos de datos en Kotlin (toInt(), toDouble(), etc.):
 * Operadores de comparación en Kotlin (==, !=, >, <, etc.):
