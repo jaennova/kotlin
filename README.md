@@ -68,10 +68,10 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 
 
 * Declaración de variables con "var" y "val":  [[uso]](/declaracion%20de%20variables/variables%20var%20y%20val.md) 
-[[enunciados]](https://gist.github.com/jaennova/8dde5fe1b5d83b391844e6e9ca352a2d)
-* Asignación de valores a variables en Kotlin: [[uso]](/declaracion%20de%20variables/asignacion%20de%20variables.md) [[enunciados]](https://gist.github.com/jaennova/024a396a511e67ca8947b16400818bec)
-* Inicialización de variables en Kotlin: [[uso]](/declaracion%20de%20variables/inicializacion%20de%20variables.md) [[enunciados]](https://gist.github.com/jaennova/47666ccf8c4f2b967fbe23f06678b409)
-* Tipos de datos en Kotlin (enteros, flotantes, booleanos, cadenas, etc.)[[uso]](/declaracion%20de%20variables/tipos%20de%20datos.md) [[enunciados]](https://gist.github.com/jaennova/22c22670bf9ab3e64e21a6fb7f5e2cf4)
+[[enunciados]](/enunciados/declaracion%20de%20variables.md)
+* Asignación de valores a variables en Kotlin: [[uso]](/declaracion%20de%20variables/asignacion%20de%20variables.md) [[enunciados]](/enunciados/asignacion%20de%20variables.md)
+* Inicialización de variables en Kotlin: [[uso]](/declaracion%20de%20variables/inicializacion%20de%20variables.md) [[enunciados]](/declaracion%20de%20variables/inicializacion%20de%20variables.md)
+* Tipos de datos en Kotlin (enteros, flotantes, booleanos, cadenas, etc.)[[uso]](/declaracion%20de%20variables/tipos%20de%20datos.md) [[enunciados]](/enunciados/tipos%20de%20datos.md)
 * Uso de "is" y "as" para comprobación y conversión de tipos en Kotlin:
 * Conversión de tipos de datos en Kotlin (toInt(), toDouble(), etc.):
 * Operadores de comparación en Kotlin (==, !=, >, <, etc.):
