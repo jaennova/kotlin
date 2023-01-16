@@ -75,7 +75,7 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 * Uso de "is" y "as" para comprobación y conversión de tipos en Kotlin: [[uso]](/declaracion%20de%20variables/uso%20de%20is%20y%20as.md) [[enunciados]](/enunciados/uso%20de%20is%20y%20as.md)
 * Conversión de tipos de datos en Kotlin (toInt(), toDouble(), etc.): [[uso]](/declaracion%20de%20variables/conversion%20de%20tipos%20de%20datos.md) [[enunciados]](/enunciados/conversion%20de%20tipos%20de%20datos.md)
 * Operadores en Kotlin: [[uso]](/declaracion%20de%20variables/operadores.md) [[enunciados]](/enunciados/operadores.md)
-* Concatenación de cadenas en Kotlin (con "+" y con "$")
+* Concatenación de cadenas en Kotlin (con "+" y con "$") [[uso]](/declaracion%20de%20variables/concatenacion%20de%20cadenas.md) [[enunciados]](/enunciados/concatenacion%20de%20cadenas.md)
 * Interpolación de cadenas en Kotlin (con "\${ }" y con "$"):
 * Null Safety en Kotlin:
 * Uso de "?." y "!!" en Kotlin para evitar el NullPointerException:
