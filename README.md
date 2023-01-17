@@ -103,7 +103,7 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 
 * Bucles "for": [[uso]](/3.%20bucles/for.md) [[uso]](/3.%20bucles/enunciados/for.md
 )
-* Bucles "for each":
+* Bucles "for each": [[uso]](/3.%20bucles/for%20each.md) [[enunciados]](/3.%20bucles/enunciados/for%20each.md)
 * Bucle "while":
 * Bucle "do-while":
 * Romper y continuar bucles:
