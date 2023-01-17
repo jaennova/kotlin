@@ -110,8 +110,8 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 * Bucle "do-while": [[uso]](/3.%20bucles/do-while.md) [[enunciados]](/3.%20bucles/enunciados/do-while.md)
 * Bucles "do-while" anidados: [[uso]](/3.%20bucles/do-while-anidados.md) [[enunciados]](/3.%20bucles/enunciados/do-while-anidados.md)
 * Uso de la palabra clave "break" y "continue"para romper y continuar bucles: [[uso]](/3.%20bucles/break-y-continue.md) [[enunciados]](/3.%20bucles/enunciados/break-y-continue.md)
-* Uso de la palabra clave "return" para salir de una función dentro de un bucle:
-* Bucles infinitos:
+
+* Bucles infinitos: [[uso]](/3.%20bucles/infinitos.md) [[enunciados]](/3.%20bucles/enunciados/infinitos.md)
 
 
 ### 4. Funciones
