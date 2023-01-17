@@ -102,7 +102,7 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 ### 3. Bucles
 
 * Bucles "for": [[uso]](/3.%20bucles/for.md) [[enunciados]](/3.%20bucles/enunciados/for.md)
-* Bucles "for" anidados:
+* Bucles "for" anidados:[[uso]](/3.%20bucles/for-anidados.md) [[enunciados]](/3.%20bucles/enunciados/for-anidados.md)
 * Bucles "for each":
 * Bucles "for each" anidados:
 * Bucle "while":
