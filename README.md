@@ -101,19 +101,16 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 
 ### 3. Bucles
 
-* Bucles "for": [[uso]](/3.%20bucles/for.md) [[uso]](/3.%20bucles/enunciados/for.md
-)
-* Bucles "for each": [[uso]](/3.%20bucles/for%20each.md) [[enunciados]](/3.%20bucles/enunciados/for%20each.md)
-* Bucle "while": [[uso]](/3.%20bucles/while.md) [[enunciados]](/3.%20bucles/enunciados/while.md)
+* Bucles "for": 
+* Bucles "for" anidados:
+* Bucles "for each":
+* Bucles "for each" anidados:
+* Bucle "while":
+* Bucles "while" anidados:
 * Bucle "do-while":
-* Romper y continuar bucles:
+* Bucles "do-while" anidados:
 * Uso de la palabra clave "break" para romper bucles:
 * Uso de la palabra clave "continue" para continuar a la siguiente iteración de un bucle:
-* Anidamiento de bucles:
-* Bucles "for" anidados:
-* Bucles "for each" anidados:
-* Bucles "while" anidados:
-* Bucles "do-while" anidados:
 * Uso de la palabra clave "return" para salir de una función dentro de un bucle:
 * Bucles infinitos:
 
