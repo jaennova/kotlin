@@ -1,0 +1,27 @@
+# Uso de la palabra clave "break" y "continue" para romper y continuar bucles
+
+Puedes encontrar mas informacion sobre la palabra clave break [aqui](https://www.develou.com/break-en-kotlin/) y sobre la palabra clave continue [aqui.](https://www.develou.com/continue-en-kotlin/)
+
+## Enunciados
+
+1. Dado una matriz de enteros, escribe un código que imprima solo los elementos de la matriz que sean múltiplos de 3 y no de 7. Si encuentra un elemento que sea múltiplo de 5, debe terminar de iterar sobre la matriz.
+
+2. Dado una lista de objetos de una clase personalizada que tienen una propiedad "edad", escribe un código que imprima solo los objetos cuyas edades sean mayores a 18 y menores a 30. Si encuentra un objeto cuyo edad sea mayor a 50, debe terminar de iterar sobre la lista.
+3. Dado una lista de números enteros, escribe un código que sume solo los números que sean múltiplos de 3 o de 7. Si encuentra un número que sea múltiplo de 2 y de 5 al mismo tiempo, debe saltearlo y continuar con la siguiente iteración.
+4. Dado una lista de cadenas de texto, escribe un código que imprima solo aquellas que tengan más de 5 caracteres y sean palíndromos (es decir, que se leen igual de izquierda a derecha y de derecha a izquierda). Si encuentra una cadena que no tenga más de 3 caracteres, debe terminar de iterar sobre la lista.
+5. Dado una matriz de enteros, escribe un código que imprima solo los elementos de la matriz que sean múltiplos de 3 y no de 5, y que también sean mayores a 10 y menores a 20. Si encuentra un elemento que cumpla con todas estas condiciones y además sea múltiplo de 2, debe terminar de iterar sobre la matriz.
+6. Dado una lista de números enteros, escribe un código que sume solo los números pares. Si encuentra un número impar, debe terminar de iterar sobre la lista.
+7. Dado una lista de cadenas de texto, escribe un código que imprima solo aquellas que comiencen con la letra 'a' y tengan más de 3 caracteres. Si encuentra una cadena que no cumpla con estas condiciones, debe terminar de iterar sobre la lista.
+8. Dado una lista de objetos de una clase personalizada que tienen una propiedad "nombre" y una propiedad "edad", escribe un código que imprima solo los objetos cuyo nombre comience con la letra 'a' y cuyo edad sea mayor a 20. Si encuentra un objeto cuyo nombre comience con la letra 'b', debe terminar de iterar sobre la lista.
+9. Dado una lista de números enteros, escribe un código que imprima solo los números primos. Si encuentra un número que no es primo, debe continuar con la siguiente iteración.
+10. Dado una lista de cadenas de texto, escribe un código que imprima solo aquellas que tengan más de 5 caracteres y sean palíndromos (es decir, que se leen igual de izquierda a derecha y de derecha a izquierda). Si encuentra una cadena que no tenga más de 3 caracteres, debe terminar de iterar sobre la lista.
+11. Dado una matriz de enteros, escribe un código que imprima solo los elementos de la matriz que sean múltiplos de 3 y no de 5. Si encuentra un elemento que sea múltiplo de 2, debe terminar de iterar sobre la matriz.
+12. Dado una lista de objetos de una clase personalizada que tienen una propiedad "nombre" y una propiedad "edad", escribe un código que imprima solo los objetos cuyo nombre tenga más de 5 caracteres y cuyo edad sea mayor a 20. Si encuentra un objeto cuyo nombre tenga menos de 3 caracteres, debe continuar con la siguiente iteración.
+13. Dado una lista de números enteros, escribe un código que sume solo los números que sean múltiplos de 3 o de 7. Si encuentra un número que sea múltiplo de 2 y de 5 al mismo tiempo, debe terminar de iterar sobre la lista.
+14. Dado una lista de cadenas de texto, escribe un código que imprima solo aquellas que tengan más de 5 caracteres y sean palíndromos (es decir, que se leen igual de izquierda a derecha y de derecha a izquierda). Si encuentra una cadena que no tenga más de 3 caracteres, debe terminar de iterar sobre la lista.
+15. Dado una matriz de enteros, escribe un código que imprima solo los elementos de la matriz que sean múltiplos de 3 y no de 5, y que también sean mayores a 10 y menores a 20. Si encuentra un elemento que cumpla con todas estas condiciones y además sea múltiplo de 2, debe terminar de iterar sobre la matriz.
+16. Dado una lista de números enteros, escribe un código que sume solo los números pares. Si encuentra un número impar, debe terminar de iterar sobre la lista.
+17. Dado una lista de cadenas de texto, escribe un código que imprima solo aquellas que comiencen con la letra 'a' y tengan más de 3 caracteres. Si encuentra una cadena que no cumpla con estas condiciones, debe terminar de iterar sobre la lista.
+18. Dado una lista de objetos de una clase personalizada que tienen una propiedad "nombre" y una propiedad "edad", escribe un código que imprima solo los objetos cuyo nombre comience con la letra 'a' y cuyo edad sea mayor a 20. Si encuentra un objeto cuyo nombre comience con la letra 'b', debe terminar de iterar sobre la lista.
+19. Dado una lista de números enteros, escribe un código que imprima solo los números primos. Si encuentra un número que no es primo, debe continuar con la siguiente iteración.
+20. Dado una lista de cadenas de texto, escribe un código que imprima solo aquellas que tengan más de 5 caracteres y sean palíndromos (es decir, que se leen igual de izquierda a derecha y de derecha a izquierda). Si encuentra una cadena que no tenga más de 3 caracteres, debe terminar de iterar sobre la lista.
