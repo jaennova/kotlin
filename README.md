@@ -94,8 +94,8 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 
 ### 2. Estructuras condicionales
 
-* Sentencia "if":
-* Sentencia "when":
+* Sentencia "if": [[uso]](/2.%20estructuras%20condicionales/sentencia%20if.md) [[enunciados]](/2.%20estructuras%20condicionales/enunciados/sentencia%20if.md)
+* Sentencia "when": 
 * Operadores lógicos:
 * Sentencia "else":
 * Sentencia "else if":
