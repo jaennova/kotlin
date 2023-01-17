@@ -96,11 +96,8 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 
 * Sentencia "if": [[uso]](/2.%20estructuras%20condicionales/sentencia%20if.md) [[enunciados]](/2.%20estructuras%20condicionales/enunciados/sentencia%20if.md)
 * Sentencia "when": [[uso]](/2.%20estructuras%20condicionales/sentencia%20when.md) [[enunciados]](/2.%20estructuras%20condicionales/enunciados/sentencia%20when.md)
-* Operadores lógicos:
-* Sentencia "else":
-* Sentencia "else if":
-* Uso de paréntesis para evaluar condiciones múltiples:
-* Anidamiento de estructuras condicionales:
+* Uso de paréntesis para evaluar condiciones múltiples: [[uso]](/2.%20estructuras%20condicionales/evaluar%20condiciones%20m%C3%BAltiples.md) [[enunciados]](/2.%20estructuras%20condicionales/enunciados/evaluar%20condiciones%20multiples.md)
+* Anidamiento de estructuras condicionales:[[uso]](/2.%20estructuras%20condicionales/anidamiento%20de%20estructuras%20condicionales.md) [[enunciados]](/2.%20estructuras%20condicionales/enunciados/anidamiento%20de%20estructuras%20condicionales.md)
 * Uso de la palabra clave "break" en estructuras "when":
 * Uso de la palabra clave "continue" en estructuras de control de flujo:
 * Diferencias entre "break" y "continue":
