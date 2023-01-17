@@ -90,7 +90,7 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 
 * Uso de "?." y "!!" en Kotlin para evitar el NullPointerException: [[uso]](/1.%20declaracion%20de%20variables/evitar%20el%20NullPointerException.md) [[enunciados]](/1.%20declaracion%20de%20variables/enunciados/evitar%20el%20NullPointerException.md)
 
-* Declaración de variables sin tipo (Any, Any?, Unit): [[uso]](/1.%20declaracion%20de%20variables/declaracion%20de%20variables%20sin%20tipo.md) [[enunciados]](/1.%20declaracion%20de%20variables/enunciados/declaracion%20de%20variables%20sin%20tipo.md)
+* Declaración de  variables sin tipo (Any, Any?, Unit): [[uso]](/1.%20declaracion%20de%20variables/declaracion%20de%20variables%20sin%20tipo.md) [[enunciados]](/1.%20declaracion%20de%20variables/enunciados/declaracion%20de%20variables%20sin%20tipo.md)
 
 ### 2. Estructuras condicionales
 
