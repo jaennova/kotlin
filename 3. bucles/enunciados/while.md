@@ -7,7 +7,9 @@ Puedes encontrar mas informacion sobre el bucle for [aqui](https://www.develou.c
 1. Crea una función que reciba una lista de números enteros y un número entero **`n`**, y devuelva el índice de la primera aparición de **`n`** en la lista. Si **`n`** no aparece en la lista, devuelve **`null`**.
 
 2. Crea una función que reciba una lista de números enteros y un número entero **`n`**, y devuelva el índice de la última aparición de **`n`** en la lista. Si **`n`** no aparece en la lista, devuelve **`null`**.
+
 3. Crea una función que reciba una lista de palabras y una palabra, y devuelva el índice de la primera aparición de la palabra en la lista. Si la palabra no aparece en la lista, devuelve **`null`**.
+
 4. Crea una función que reciba una lista de palabras y una palabra, y devuelva el índice de la última aparición de la palabra en la lista. Si la palabra no aparece en la lista, devuelve **`null`**.
 5. Crea una función que reciba una lista de números enteros y devuelva la suma de todos los números pares de la lista.
 6. Crea una función que reciba una lista de números enteros y devuelva una nueva lista con todos los números impares de la lista original.

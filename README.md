@@ -105,7 +105,7 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 * Bucles "for" anidados:[[uso]](/3.%20bucles/for-anidados.md) [[enunciados]](/3.%20bucles/enunciados/for-anidados.md)
 * Bucles "for each": [[uso]](/3.%20bucles/for%20each.md) [[enunciados]](/3.%20bucles/enunciados/for%20each.md)
 * Bucles "for each" anidados: [[uso]](/3.%20bucles/for-each-anidados.md) [[enunciados]](/3.%20bucles/enunciados/for-each-anidados.md)
-* Bucle "while":
+* Bucle "while": [[uso]](/3.%20bucles/while.md) [[enunciados]](/3.%20bucles/enunciados/while.md)
 * Bucles "while" anidados:
 * Bucle "do-while":
 * Bucles "do-while" anidados:

@@ -22,4 +22,4 @@ while (i <= 5) {
 
 Es importante tener cuidado al utilizar bucles while ya que si la condición nunca se vuelve falsa, el bucle se ejecutará de forma infinita y causará un bucle infinito. Por eso es importante asegurarse de que la condición eventualmente se vuelva falsa dentro del bucle.
 
-En resumen, el bucle while en Kotlin es una estructura de control de bucle que se utiliza para ejecutar un bloque de código mientras se cumpla una condición dada, es importante tener cuidado al utilizarlo para evitar bucles infinitos.
+En resumen, el bucle while en Kotlin es una estructura de control de bucle que se utiliza para ejecutar un bloque de código mientras se cumpla una condición dada, es importante tener cuidado al utilizarlo para evitar bucles infinitos
