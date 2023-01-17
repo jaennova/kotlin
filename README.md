@@ -67,19 +67,30 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 ### 1. Declaración de variables
 
 
-* Declaración de variables con "var" y "val":  [[uso]](/declaracion%20de%20variables/variables%20var%20y%20val.md) 
-[[enunciados]](/enunciados/declaracion%20de%20variables.md)
-* Asignación de valores a variables en Kotlin: [[uso]](/declaracion%20de%20variables/asignacion%20de%20variables.md) [[enunciados]](/enunciados/asignacion%20de%20variables.md)
-* Inicialización de variables en Kotlin: [[uso]](/declaracion%20de%20variables/inicializacion%20de%20variables.md) [[enunciados]](/declaracion%20de%20variables/inicializacion%20de%20variables.md)
-* Tipos de datos en Kotlin (enteros, flotantes, booleanos, cadenas, etc.)[[uso]](/declaracion%20de%20variables/tipos%20de%20datos.md) [[enunciados]](/enunciados/tipos%20de%20datos.md)
-* Uso de "is" y "as" para comprobación y conversión de tipos en Kotlin: [[uso]](/declaracion%20de%20variables/uso%20de%20is%20y%20as.md) [[enunciados]](/enunciados/uso%20de%20is%20y%20as.md)
-* Conversión de tipos de datos en Kotlin (toInt(), toDouble(), etc.): [[uso]](/declaracion%20de%20variables/conversion%20de%20tipos%20de%20datos.md) [[enunciados]](/enunciados/conversion%20de%20tipos%20de%20datos.md)
-* Operadores en Kotlin: [[uso]](/declaracion%20de%20variables/operadores.md) [[enunciados]](/enunciados/operadores.md)
-* Concatenación de cadenas en Kotlin (con "+" y con "$") [[uso]](/declaracion%20de%20variables/concatenacion%20de%20cadenas.md) [[enunciados]](/enunciados/concatenacion%20de%20cadenas.md)
-* Interpolación de cadenas en Kotlin (con "\${ }" y con "$"): [[uso]](/declaracion%20de%20variables/interpolacion%20de%20cadenas.md) [[enunciados]](/enunciados/interpolacion%20de%20cadenas.md)
-* Null Safety en Kotlin: [[uso]](/declaracion%20de%20variables/null%20safety.md) [[enunciados]](/enunciados/null%20safety.md)
-* Uso de "?." y "!!" en Kotlin para evitar el NullPointerException: [[uso]](/declaracion%20de%20variables/evitar%20el%20NullPointerException.md) [[enunciados]](/enunciados/evitar%20el%20NullPointerException.md)
-* Declaración de variables sin tipo (Any, Any?, Unit): [[uso]](/declaracion%20de%20variables/declaracion%20de%20variables%20sin%20tipo.md) [[enunciados]](/enunciados/declaracion%20de%20variables%20sin%20tipo.md)
+* Declaración de variables con "var" y "val":  [[uso]](/1.%20declaracion%20de%20variables/variables%20var%20y%20val.md) 
+[[enunciados]](/1.%20declaracion%20de%20variables/enunciados/declaracion%20de%20variables.md)
+
+* Asignación de valores a variables en Kotlin: [[uso]](/1.%20declaracion%20de%20variables/asignacion%20de%20variables.md) [[enunciados]](/1.%20declaracion%20de%20variables/enunciados/asignacion%20de%20variables.md)
+
+* Inicialización de variables en Kotlin: [[uso]](/1.%20declaracion%20de%20variables/inicializacion%20de%20variables.md) [[enunciados]](/1.%20declaracion%20de%20variables/enunciados/inicializacion%20de%20variables.md)
+
+* Tipos de datos en Kotlin (enteros, flotantes, booleanos, cadenas, etc.)[[uso]](/1.%20declaracion%20de%20variables/tipos%20de%20datos.md) [[enunciados]](/1.%20declaracion%20de%20variables/enunciados/tipos%20de%20datos.md)
+
+* Uso de "is" y "as" para comprobación y conversión de tipos en Kotlin: [[uso]](/1.%20declaracion%20de%20variables/uso%20de%20is%20y%20as.md) [[enunciados]](/1.%20declaracion%20de%20variables/enunciados/uso%20de%20is%20y%20as.md)
+
+* Conversión de tipos de datos en Kotlin (toInt(), toDouble(), etc.): [[uso]](/1.%20declaracion%20de%20variables/conversion%20de%20tipos%20de%20datos.md) [[enunciados]](/1.%20declaracion%20de%20variables/enunciados/conversion%20de%20tipos%20de%20datos.md)
+
+* Operadores en Kotlin: [[uso]](/1.%20declaracion%20de%20variables/operadores.md) [[enunciados]](/1.%20declaracion%20de%20variables/enunciados/operadores.md)
+
+* Concatenación de cadenas en Kotlin (con "+" y con "$") [[uso]](/1.%20declaracion%20de%20variables/concatenacion%20de%20cadenas.md) [[enunciados]](/1.%20declaracion%20de%20variables/enunciados/concatenacion%20de%20cadenas.md)
+
+* Interpolación de cadenas en Kotlin (con "\${ }" y con "$"): [[uso]](/1.%20declaracion%20de%20variables/interpolacion%20de%20cadenas.md) [[enunciados]](/1.%20declaracion%20de%20variables/enunciados/interpolacion%20de%20cadenas.md)
+
+* Null Safety en Kotlin: [[uso]](/1.%20declaracion%20de%20variables/null%20safety.md) [[enunciados]](/1.%20declaracion%20de%20variables/enunciados/null%20safety.md)
+
+* Uso de "?." y "!!" en Kotlin para evitar el NullPointerException: [[uso]](/1.%20declaracion%20de%20variables/evitar%20el%20NullPointerException.md) [[enunciados]](/1.%20declaracion%20de%20variables/enunciados/evitar%20el%20NullPointerException.md)
+
+* Declaración de variables sin tipo (Any, Any?, Unit): [[uso]](/1.%20declaracion%20de%20variables/declaracion%20de%20variables%20sin%20tipo.md) [[enunciados]](/1.%20declaracion%20de%20variables/enunciados/declaracion%20de%20variables%20sin%20tipo.md)
 
 ### 2. Estructuras condicionales
 
