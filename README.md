@@ -107,7 +107,7 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 * Bucles "for each" anidados: [[uso]](/3.%20bucles/for-each-anidados.md) [[enunciados]](/3.%20bucles/enunciados/for-each-anidados.md)
 * Bucle "while": [[uso]](/3.%20bucles/while.md) [[enunciados]](/3.%20bucles/enunciados/while.md)
 * Bucles "while" anidados:[[uso]](/3.%20bucles/while-anidados.md) [[enunciados]](/3.%20bucles/enunciados/while-anidados.md)
-* Bucle "do-while":
+* Bucle "do-while": [[uso]](/3.%20bucles/do-while.md) [[enunciados]](/3.%20bucles/enunciados/do-while.md)
 * Bucles "do-while" anidados:
 * Uso de la palabra clave "break" para romper bucles:
 * Uso de la palabra clave "continue" para continuar a la siguiente iteración de un bucle:
