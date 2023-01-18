@@ -119,7 +119,7 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 * Declaración de funciones: [[uso]](/4.%20funciones/declaracion%20de%20funciones.md) [[enunciados]](/4.%20funciones/enunciados/declaracion%20de%20funciones.md)
 * Parámetros y valores de retorno: [[uso]](/4.%20funciones/parametros%20y%20valores%20de%20retorno.md) [[enunciados]](/4.%20funciones/enunciados/parametros%20y%20valores%20de%20retorno.md)
 * Funciones con nombre: [[uso]](/4.%20funciones/con%20nombre.md) [[enunciados]](/4.%20funciones/enunciados/con%20nombre.md)
-* Funciones con expresiones lambda:
+* Funciones con expresiones lambda: [[uso]](/4.%20funciones/con%20expresiones%20lambda.md) [[enunciados]](/4.%20funciones/enunciados/con%20expresiones%20lambda.md)
 * Funciones con parámetros opcionales y valores por defecto:
 * Funciones anidadas:
 * Funciones con ámbito de bloque:
