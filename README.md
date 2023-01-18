@@ -126,4 +126,4 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 * Funciones inlining: [[uso]](/4.%20funciones/inlining.md) [[enunciados]](/4.%20funciones/enunciados/inlining.md)
 * Funciones con parámetros variables: [[uso]](/4.%20funciones/parametros%20variables.md) [[enunciados]](/4.%20funciones/enunciados/parametros%20variables.md)
 * Funciones con parámetros de tipo clase genérica: [[uso]](/4.%20funciones/parametros%20de%20tipo%20clase%20generica.md) [[enunciados]](/4.%20funciones/enunciados/parametros%20de%20tipo%20clase%20generica.md)
-* Funciones de extensión:
+* Funciones de extensión: [[uso]](/4.%20funciones/de%20extension.md) [[enunciados]](/4.%20funciones/enunciados/de%20extension.md)
