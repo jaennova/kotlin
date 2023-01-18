@@ -1,0 +1,25 @@
+# Funciones con nombre
+
+## Enunciados
+
+1. Escribe una función en Kotlin que tome una lista de cadenas y una función que tome dos cadenas como parámetros y devuelva un booleano, y devuelva una lista con las cadenas de la lista original que cumplan con la condición de la función.
+
+2. Escribe una función en Kotlin que tome una lista de números flotantes y una función que tome un número flotante como parámetro y devuelva un número flotante, y devuelva la suma de los resultados de aplicar la función a cada elemento de la lista.
+3. Escribe una función en Kotlin que tome una lista de números enteros y una función que tome un número entero y una lista de números enteros como parámetros y devuelva un número entero, y devuelva el resultado de aplicar la función a todos los elementos de la lista y la lista completa.
+4. Escribe una función en Kotlin que tome una lista de cadenas y una función que tome una cadena y un índice como parámetros y devuelva una cadena, y devuelva una lista con los resultados de aplicar la función a cada elemento de la lista con su índice respectivo.
+5. Escribe una función en Kotlin que tome una lista de números enteros y una función que tome un número entero como parámetro y devuelva un booleano, y devuelva el primer elemento de la lista que cumpla con la condición de la función.
+6. Escribe una función en Kotlin que tome una lista de cadenas y una función que tome una cadena y un número entero como parámetros y devuelva una cadena, y devuelva una lista con los resultados de aplicar la función a cada elemento de la lista con su índice respectivo.
+7. Escribe una función en Kotlin que tome una lista de números flotantes y una función que tome dos números flotantes como parámetros y devuelva un número flotante, y devuelva el resultado de aplicar la función a todos los elementos de la lista secuencialmente.
+8. Escribe una función en Kotlin que tome una lista de números enteros y una función que tome un número entero y una lista de números enteros como parámetros y devuelva una lista de números enteros, y devuelva el resultado de aplicar la función a todos los elementos de la lista y la lista completa.
+9. Escribe una función en Kotlin que tome una lista de cadenas y una función que tome una cadena como parámetro y devuelva un booleano, y devuelva una lista con las cadenas de la lista original que cumplan con la condición de la función.
+10. Escribe una función en Kotlin que tome una lista de números enteros y una función que tome un número entero como parámetro y devuelva un número entero, y devuelva el resultado de aplicar la función a cada elemento de la lista y sumar todos los resultados.
+11. Escribe una función en Kotlin que tome una lista de cadenas y una función que tome dos cadenas como parámetros y devuelva una cadena, y devuelva el resultado de aplicar la función a todos los elementos de la lista secuencialmente.
+12. Escribe una función en Kotlin que tome una lista de números enteros y una función que tome un número entero y una lista de números enteros como parámetros y devuelva una lista de números enteros, y devuelva el resultado de aplicar la función a cada elemento de la lista y la lista completa.
+13. Escribe una función en Kotlin que tome una lista de números enteros y una función que tome un número entero como parámetro y devuelva un número entero, y devuelva el resultado de aplicar la función a cada elemento de la lista y sumar todos los resultados.
+14. Escribe una función en Kotlin que tome una lista de cadenas y una función que tome una cadena como parámetro y devuelva un booleano, y devuelva el primer elemento de la lista que cumpla con la condición de la función.
+15. Escribe una función en Kotlin que tome una lista de números flotantes y una función que tome un número flotante como parámetro y devuelva un número flotante, y devuelva la suma de los resultados de aplicar la función a cada elemento de la lista.
+16. Escribe una función en Kotlin que tome una lista de números enteros y una función que tome un número entero como parámetro y devuelva un booleano, y devuelva una lista con los elementos de la lista original que cumplan con la condición de la función.
+17. Escribe una función en Kotlin que tome una lista de cadenas y una función que tome una cadena como parámetro y devuelva una cadena, y devuelva una lista con los resultados de aplicar la función a cada elemento de la lista.
+18. Escribe una función en Kotlin que tome una lista de números enteros y una función que tome dos números enteros como parámetros y devuelva un número entero, y devuelva el resultado de aplicar la función a todos los elementos de la lista secuencialmente.
+19. Escribe una función en Kotlin que tome una cadena y una función que tome una cadena y un carácter como parámetros y devuelva una cadena, y devuelva el resultado de aplicar la función a cada carácter de la cadena.
+20. Escribe una función en Kotlin que tome una lista de números enteros y una función que tome un número entero y una lista de números enteros como parámetros y devuelva un número entero, y devuelva el resultado de aplicar la función a todos los elementos de la lista y la lista completa.
