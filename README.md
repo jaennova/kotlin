@@ -122,7 +122,7 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 * Funciones con expresiones lambda: [[uso]](/4.%20funciones/con%20expresiones%20lambda.md) [[enunciados]](/4.%20funciones/enunciados/con%20expresiones%20lambda.md)
 * Funciones con parámetros opcionales y valores por defecto: [[uso]](/4.%20funciones/parametros%20opcionales%20y%20valores%20por%20defecto.md) [[enunciados]](/4.%20funciones/enunciados/parametros%20opcionales%20y%20valores%20por%20defecto.md)
 * Funciones anidadas: [[uso]](/4.%20funciones/anidadas.md) [[enunciados]](/4.%20funciones/enunciados/anidadas.md)
-* Funciones con ámbito de bloque:
+* Funciones con ámbito de bloque: [[uso]](/4.%20funciones/con%20ambito%20de%20bloque.md) [[enunciados]](/4.%20funciones/con%20ambito%20de%20bloque.md)
 * Funciones inlining:
 * Funciones con parámetros variables:
 * Funciones con parámetros de tipo clase genérica:
