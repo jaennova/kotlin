@@ -116,7 +116,7 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 
 ### 4. Funciones
 
-* Declaración de funciones:
+* Declaración de funciones: [[uso]](/4.%20funciones/declaracion%20de%20funciones.md) [[enunciados]](/4.%20funciones/enunciados/declaracion%20de%20funciones.md)
 * Parámetros y valores de retorno:
 * Funciones con nombre:
 * Funciones con expresiones lambda:
