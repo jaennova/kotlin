@@ -22,6 +22,8 @@ Declara una variable llamada "y" y asigna el valor "Hello" a la misma en una sol
 
 ```kotlin
 val y:String = "Hello"
+```
+
 </details>
 
 ## Enunciado 3
@@ -30,8 +32,11 @@ Declara una variable llamada "nombre" y asigna el valor "John" a la misma en una
 
 <details>
   <summary>Solucion</summary>
+
 ```kotlin
 val nombre:String = "John"
+```
+
 </details>
 
 ## Enunciado 4
@@ -95,6 +100,8 @@ Declara una variable llamada "genero" con un valor inicial de 'M'.
 
 ```kotlin
 val genero:Char = 'M'
+```
+
 </details>
 
 ## Enunciado 9
