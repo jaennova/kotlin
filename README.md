@@ -68,7 +68,7 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 
 
 * Declaración de variables con "var" y "val":  [[uso]](/1.%20declaracion%20de%20variables/variables%20var%20y%20val.md) 
-[[enunciados]](/1.%20declaracion%20de%20variables/enunciados/declaracion%20de%20variables.md) [[mi solucion]](/soluciones/1.%20declaracion%20de%20variables/declaracion%20de%20variables.md)
+[[enunciados]](/1.%20declaracion%20de%20variables/enunciados/declaracion%20de%20variables.md) [[mis soluciones]](/soluciones/1.%20declaracion%20de%20variables/declaracion%20de%20variables.md)
 * Asignación de valores a variables en Kotlin: [[uso]](/1.%20declaracion%20de%20variables/asignacion%20de%20variables.md) [[enunciados]](/1.%20declaracion%20de%20variables/enunciados/asignacion%20de%20variables.md) [[mis soluciones]](/soluciones/1.%20declaracion%20de%20variables/asignacion%20de%20variables.md)
 * Inicialización de variables en Kotlin: [[uso]](/1.%20declaracion%20de%20variables/inicializacion%20de%20variables.md) [[enunciados]](/1.%20declaracion%20de%20variables/enunciados/inicializacion%20de%20variables.md)
 * Tipos de datos en Kotlin (enteros, flotantes, booleanos, cadenas, etc.)[[uso]](/1.%20declaracion%20de%20variables/tipos%20de%20datos.md) [[enunciados]](/1.%20declaracion%20de%20variables/enunciados/tipos%20de%20datos.md)
