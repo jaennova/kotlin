@@ -16,7 +16,7 @@ Puedes consultar la información teórica de este tema [aquí.](https://code.tut
 
 1. Declara una variable "nombre" de tipo String y asígnale el valor "Juan".
 
-1. do Declara una variable "precio" de tipo double y asígnale el valor de 19.99.
+1. Declara una variable "precio" de tipo double y asígnale el valor de 19.99.
 
 1. Declara una variable "inicial" de tipo char y asígnale el valor de 'J'.
 
