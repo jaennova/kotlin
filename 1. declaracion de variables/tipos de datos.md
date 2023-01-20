@@ -102,7 +102,9 @@ Se podría utilizar para almacenar el valor de una variable que representa una c
 val nombre = "Juan"
 ```
 
-Array: Es un tipo de dato que representa una colección de elementos del mismo tipo.
+## Array
+
+Es un tipo de dato que representa una colección de elementos del mismo tipo.
 
 Se podría utilizar para almacenar el valor de una variable que representa una colección de elementos, como una lista de números.
 
