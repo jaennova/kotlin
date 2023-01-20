@@ -4,42 +4,61 @@ Puedes consultar la información teórica de este tema [aquí.](https://code.tut
 
 ## Enunciados
 
-1. Declara una variable de tipo **`Int`** llamada **`numero`** y asígnale el valor **`10`**. Luego, declara otra variable de tipo **`Int`** llamada **`resultado`** y asígnale el valor de **`numero`** multiplicado por **`5`**
+1. Declara una variable "edad" de tipo byte y asígnale el valor de 27.
 
-2. Declara una variable de tipo **`Double`** llamada **`pi`** y asígnale el valor **`3.14159`**. Luego, declara otra variable de tipo **`Double`** llamada **`radius`** y asígnale el valor **`5.0`**. Finalmente, declara una variable de tipo **`Double`** llamada **`area`** y asígnale el valor del área del círculo con radio **`radius`**.
+1. Declara una variable "año" de tipo short y asígnale el valor de 2022.
 
-3. Declara una variable de tipo **`Boolean`** llamada **`isRainy`** y asígnale el valor **`true`** si hoy llueve, o **`false`** si no llueve. Luego, si **`isRainy`** es **`true`**, imprime en pantalla "Lleva un paraguas hoy".
+1. Declara una variable "numeroDeAlumnos" de tipo int y asígnale el valor de 45.
 
-4. Declara una variable de tipo **`String`** llamada **`name`** y asígnale tu nombre. Luego, declara otra variable de tipo **`String`** llamada **`greeting`** y asígnale el valor "Hola, " más el contenido de la variable **`name`**. Imprime en pantalla el contenido de la variable **`greeting`**.
+1. Declara una variable "poblacion" de tipo long y asígnale el valor de 1000000.
 
-5. Declara una variable de tipo **`Array<Int>`** llamada **`numbers`** y asígnale un arreglo con los números del 1 al 10. Luego, declara una variable de tipo **`Int`** llamada **`sum`** y asígnale el valor de la suma de todos los elementos del arreglo **`numbers`**.
+1. Declara una variable "temperatura" de tipo float y asígnale el valor de 20.5.
 
-6. Declara una variable de tipo **`CharArray`** llamada **`chars`** y asígnale un arreglo con las letras de tu nombre. Luego, declara una variable de tipo **`String`** llamada **`fullName`** y asígnale el valor de la concatenación de todos los elementos del arreglo **`chars`**.
+1. Declara una variable "nombre" de tipo String y asígnale el valor "Juan".
 
-7. Declara una variable de tipo **`Byte`** llamada **`age`** y asígnale tu edad. Luego, declara una variable de tipo **`Byte`** llamada **`ageInFiveYears`** y asígnale el valor de la edad que tendrás dentro de 5 años.
+1. do Declara una variable "precio" de tipo double y asígnale el valor de 19.99.
 
-8. Declara una variable de tipo **`Float`** llamada **`weight`** y asígnale tu peso. Luego, declara una variable de tipo **`Float`** llamada **`weightInPounds`** y asígnale el valor de tu peso en libras.
+1. Declara una variable "inicial" de tipo char y asígnale el valor de 'J'.
 
-9. Declara una variable de tipo **`Short`** llamada **`height`** y asígnale tu altura en centímetros. Luego, declara una variable de tipo **`Double`** llamada **`heightInInches`** y asígnale el valor de tu altura en pulgadas.
+1. Declara una variable "colores" de tipo List y asígnale los valores ["rojo", "azul", "verde"].
 
-10. Declara una variable de tipo **`Int`** llamada **`num1`** y asígnale el valor **`5`**. Luego, declara otra variable de tipo **`Int`** llamada **`num2`** y asígnale el valor **`10`**. Finalmente, declara una variable de tipo **`Int`** llamada **`max`** y asígnale el valor del mayor de **`num1`** y **`num2`**.
+1. Declara una variable "numeros" de tipo Array y asígnale los valores [1, 2, 3, 4, 5].
 
-11. Declara una variable de tipo **`Boolean`** llamada **`isWeekend`** y asígnale el valor **`true`** si hoy es fin de semana, o **`false`** si no lo es. Luego, si **`isWeekend`** es **`true`**, imprime en pantalla "Es fin de semana, ¡disfrútalo!".
+1. Declara una variable "identificador" de tipo byte y asígnale el valor de 123.
 
-12. Declara una variable de tipo **`Double`** llamada **`salary`** y asígnale tu salario. Luego, declara una variable de tipo **`Double`** llamada **`taxRate`** y asígnale el porcentaje de impuestos que debes pagar. Finalmente, declara una variable de tipo **`Double`** llamada **`taxes`** y asígnale el valor de los impuestos que debes pagar a partir de tu salario y la tasa de impuestos.
+1. Declara una variable "mes" de tipo short y asígnale el valor de 12.
 
-13. Declara una variable de tipo **`String`** llamada **`word`** y asígnale la palabra "Hola". Luego, declara una variable de tipo **`Int`** llamada **`wordLength`** y asígnale el valor de la longitud de la palabra almacenada en **`word`**.
+1. Declara una variable "numeroDeProductos" de tipo int y asígnale el valor de 150.
 
-14. Declara una variable de tipo **`Array<Double>`** llamada **`prices`** y asígnale un arreglo con los precios de varios productos. Luego, declara una variable de tipo **`Double`** llamada **`total`** y asígnale el valor de la suma de todos los elementos del arreglo **`prices`**.
+1. Declara una variable "numeroDeTelefono" de tipo long y asígnale el valor de 5551234567.
 
-15. Declara una variable de tipo **`CharArray`** llamada **`chars`** y asígnale un arreglo con las letras de la palabra "Kotlin". Luego, declara una variable de tipo **`Int`** llamada **`numVowels`** y asígnale el número de vocales presentes en el arreglo **`chars`**.
+1. Declara una variable "porcentajeDeDescuento" de tipo float y asígnale el valor de 10.5.
+1. Declara una variable "direccion" de tipo String y asígnale el valor "Calle 123, 
+Colonia 456, Ciudad 789".
 
-16. Declara una variable de tipo **`Float`** llamada **`weight`** y asígnale tu peso. Luego, declara una variable de tipo **`Float`** llamada **`idealWeight`** y asígnale el valor del peso ideal que deberías tener de acuerdo a tu altura y edad.
+1. Declara una variable "tasaDeInteres" de tipo double y asígnale el valor de 3.5.
 
-17. Declara una variable de tipo **`Long`** llamada **`phoneNumber`** y asígnale tu número de teléfono. Luego, declara una variable de tipo **`String`** llamada **`formattedPhoneNumber`** y asígnale el número de teléfono formateado con el código de área y el prefijo.
+1. Declara una variable "genero" de tipo char y asígnale el valor de 'M'.
 
-18. Declara una variable de tipo **`Short`** llamada **`height`** y asígnale tu altura en centímetros. Luego, declara una variable de tipo **`Double`** llamada **`bmi`** y asígnale el valor del índice de masa corporal (BMI) basado en tu peso y altura.
+1. Declara una variable "frutas" de tipo List y asígnale los valores ["manzana", "pera", 
+"banana"].
+1. Declara una variable "notas" de tipo Array y asígnale los valores [7, 9, 8, 6, 10].
 
-19. Declara una variable de tipo **`Double`** llamada **`salary`** y asígnale tu salario. Luego, declara una variable de tipo **`Double`** llamada **`savingsRate`** y asígnale el porcentaje de tu salario que ahorras cada mes. Finalmente, declara una variable de tipo **`Double`** llamada **`monthlySavings`** y asígnale el valor de cuánto ahorras cada mes en base a tu salario y tasa de ahorro.
+1.  Declara una variable "numeroDeHabitacion" de tipo byte y asígnale el valor de 5.
 
-20. Declara una variable de tipo **`Array<Int>`** llamada **`scores`** y asígnale un arreglo con las calificaciones obtenidas en varias pruebas. Luego, declara una variable de tipo **`Int`** llamada **`totalScore`** y asígnale el valor de la suma de todos los elementos del arreglo **`scores`**. Finalmente, declara una variable de tipo **`Double`** llamada **`averageScore`** y asígnale el valor del promedio de las calificaciones almacenadas en **`scores`**.
+1.  Declara una variable "dia" de tipo short y asígnale el valor de 31.
+
+1.  Declara una variable "numeroDeEmpleados" de tipo int y asígnale el valor de 200.
+
+1.  Declara una variable "numeroDeOrden" de tipo long y asígnale el valor de 9876543210.
+
+1.  Declara una variable "iva" de tipo float y asígnale el valor de 16.0.
+
+1.  Declara una variable "correoElectronico" de tipo String y asígnale el valor: "ejemplo@dominio.com".
+1.  Declara una variable "cambioDolar" de tipo double y asígnale el valor de 19.50.
+
+1.  Declara una variable "letra" de tipo char y asígnale el valor de 'A'.
+
+1.  Declara una variable "animales" de tipo List y asígnale los valores ["gato", "perro", 
+"raton"].
+1.  Declara una variable "calificaciones" de tipo Array y asígnale los valores [8, 7, 9, 8, 10].
