@@ -71,7 +71,7 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 [[enunciados]][e declaracion de variables] [[mis soluciones]][m declaracion de variables]
 * Asignación de valores a variables en Kotlin: [[uso]][u asignacion] [[enunciados]][e asignacion] [[mis soluciones]][m declaracion]
 * Inicialización de variables en Kotlin: [[uso]][u inicializacion] [[enunciados]][e inicializacion] [[mis soluciones]][ms inicializacion]
-* Tipos de datos en Kotlin (enteros, flotantes, booleanos, cadenas, etc.)[[uso]][u tiposDatos] [[enunciados]][e tiposDatos]
+* Tipos de datos en Kotlin (enteros, flotantes, booleanos, cadenas, etc.)[[uso]][u tiposDatos] [[enunciados]][e tiposDatos] [[mis soluciones]][ms tiposdedatos]
 * Uso de "is" y "as" para comprobación y conversión de tipos en Kotlin: [[uso]][u is as] [[enunciados]][e is as]
 * Conversión de tipos de datos en Kotlin (toInt(), toDouble(), etc.): [[uso]][u conversion] [[enunciados]][e conversion]
 * Operadores en Kotlin: [[uso]][u operadores] [[enunciados]][e operadores]
@@ -265,3 +265,4 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 [u extension]: /4.%20funciones/de%20extension.md
 
 [e extension]: /4.%20funciones/enunciados/de%20extension.md
+[ms tiposdedatos]: /soluciones/1.%20declaracion%20de%20variables/tipos%20de%20datos.md
