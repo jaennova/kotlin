@@ -72,7 +72,7 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 * Asignación de valores a variables en Kotlin: [[uso]][u asignacion] [[enunciados]][e asignacion] [[mis soluciones]][m declaracion]
 * Inicialización de variables en Kotlin: [[uso]][u inicializacion] [[enunciados]][e inicializacion] [[mis soluciones]][ms inicializacion]
 * Tipos de datos en Kotlin (enteros, flotantes, booleanos, cadenas, etc.)[[uso]][u tiposDatos] [[enunciados]][e tiposDatos] [[mis soluciones]][ms tiposdedatos]
-* Conversión de tipos de datos en Kotlin (toInt(), toDouble(), etc.): [[uso]][u conversion] [[enunciados]][e conversion]
+* Conversión de tipos de datos en Kotlin (toInt(), toDouble(), etc.): [[uso]][u conversion] [[enunciados]][e conversion] [[mis soluciones]](/soluciones/1.%20declaracion%20de%20variables/conversion.md)
 * Operadores en Kotlin: [[uso]][u operadores] [[enunciados]][e operadores]
 * Concatenación de cadenas en Kotlin (con "+" y con "$") [[uso]][u concatenacion] [[enunciados]][e concatenacion]
 * Interpolación de cadenas en Kotlin (con "\${ }" y con "$"): [[uso]][u interpolacion] [[enunciados]][e interpolacion]
