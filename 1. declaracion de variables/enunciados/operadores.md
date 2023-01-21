@@ -49,8 +49,6 @@ En la siguiente [pagina web](https://www.develou.com/operadores-en-kotlin/) hay 
 
 1. Utiliza el operador de decremento en una variable llamada y dentro de una expresión que compruebe si el valor de y es menor o igual a 15.
 
-1. Crea un ciclo que utilice el operador de incremento para iterar 10 veces y en cada iteración imprima el valor actual de una variable llamada iteration.
-
 
 ## Enunciados de Operadores relacionales
 
