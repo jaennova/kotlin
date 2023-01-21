@@ -1,8 +1,8 @@
 # Uso de is y as
 
-## Operador is
-
 En Kotlin, `is` se utiliza para comprobar si una variable es de un determinado tipo, mientras que `as` se utiliza para convertir una variable a un determinado tipo.
+
+## Operador is
 
 El operador `is` se utiliza para comprobar el tipo de una variable. Por ejemplo, si queremos comprobar si una variable "x" es un número entero, podemos usar la siguiente sintaxis:
 
