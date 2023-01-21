@@ -237,7 +237,7 @@ fun main(){
     val o = 1
     println((m == 5) && (n >= 3) && (o <= 10))
 }
-
+```
 Salida
 
 ```kotlin
