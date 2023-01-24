@@ -10,7 +10,7 @@
 
 ## Indice
 
-- [Aprende a programar con ejercicios](#aprende-a-programar-con-ejercicios)
+- [Aprende Kotlin con ejercicios](#aprende-kotlin-con-ejercicios)
   - [Introducción](#introducción)
   - [Indice](#indice)
   - [Entorno de desarrollo](#entorno-de-desarrollo)
@@ -74,7 +74,7 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 * Tipos de datos en Kotlin (enteros, flotantes, booleanos, cadenas, etc.)[[uso]][u tiposDatos] [[enunciados]][e tiposDatos] [[mis soluciones]][ms tiposdedatos]
 * Conversión de tipos de datos en Kotlin (toInt(), toDouble(), etc.): [[uso]][u conversion] [[enunciados]][e conversion] [[mis soluciones]](/soluciones/1.%20declaracion%20de%20variables/conversion.md)
 * Operadores en Kotlin: [[uso]][u operadores] [[enunciados]][e operadores] [[mis soluciones]][ms operadores]
-* Concatenación de cadenas en Kotlin (con "+" y con "$") [[uso]][u concatenacion] [[enunciados]][e concatenacion]
+* Concatenación de cadenas en Kotlin (con "+" y con "$") [[uso]][u concatenacion] [[enunciados]][e concatenacion] [[mis soluciones]](/soluciones/1.%20declaracion%20de%20variables/concatenacion%20de%20cadenas.md)
 * Interpolación de cadenas en Kotlin (con "\${ }" y con "$"): [[uso]][u interpolacion] [[enunciados]][e interpolacion]
 * Null Safety en Kotlin: [[uso]][u nullSafety] [[enunciados]][e nullSafety]
 * Uso de "?." y "!!" en Kotlin para evitar el NullPointerException: [[uso]][u nullPointer] [[enunciados]][e nullPointer]
