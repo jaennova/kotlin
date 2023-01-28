@@ -77,7 +77,6 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 * Concatenación de cadenas en Kotlin (con "+" y con "$") [[uso]][u concatenacion] [[enunciados]][e concatenacion] [[mis soluciones]](/soluciones/1.%20declaracion%20de%20variables/concatenacion%20de%20cadenas.md)
 * Interpolación de cadenas en Kotlin (con "\${ }" y con "$"): [[uso]][u interpolacion] [[enunciados]][e interpolacion] [[mis soluciones]](/soluciones/1.%20declaracion%20de%20variables/interpolacion%20de%20cadenas.md)
 * Null Safety en Kotlin: [[uso]][u nullSafety] [[enunciados]][e nullSafety] [[mis soluciones]](/soluciones/1.%20declaracion%20de%20variables/null%20safety.md)
-* Uso de "?." y "!!" en Kotlin para evitar el NullPointerException: [[uso]][u nullPointer] [[enunciados]][e nullPointer]
 * Declaración de  variables sin tipo (Any, Any?, Unit): [[uso]][u sinTipo] [[enunciados]][e sinTipo]
 
 ### 2. Estructuras condicionales
