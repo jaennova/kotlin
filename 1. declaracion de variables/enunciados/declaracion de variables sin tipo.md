@@ -1,4 +1,4 @@
-# Declaración de variables sin tipo (Any, Any?, Unit)
+# Declaración de variables sin tipo (Any, Any?)
 
 ## Enunciados para Any
 
@@ -25,15 +25,3 @@ un objeto cualquiera.
 diferentes tipos de elementos o null.
 
 1. Crea una variable llamada "booleanoOpcional" de tipo Any? y asígnale el valor null
-
-## Enunciados para Unit
-
-1. Crea una variable llamada "accion" de tipo Unit y asígnale el valor de una función que no devuelve ningún valor
-
-1. Crea una variable llamada "estado" de tipo Unit y asígnale el valor de una propiedad que no devuelve ningún valor
-
-1. Crea una variable llamada "operacion" de tipo Unit y asígnale el valor de una expresión que no devuelve ningún valor
-
-1. Crea una variable llamada "ejecucion" de tipo Unit y asígnale el valor de una sentencia que no devuelve ningún valor
-
-1. Crea una variable llamada "resultado" de tipo Unit y asígnale el valor de una operación matemática que no devuelve ningún valor
