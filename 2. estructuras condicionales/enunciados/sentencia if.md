@@ -6,9 +6,7 @@ Pedes revisar mas sobre la sentencia if [aqui.](https://cursokotlin.com/capitulo
 
 1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es par" si es par, y "no es par" en caso contrario.
 
-1. Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es un palíndromo" si es un palíndromo, y "no es un palíndromo" en caso contrario.
-
-1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número perfecto" si es un número perfecto, y "no es un número perfecto" en caso contrario.  Un número es perfecto si es igual a la suma de sus divisores propios (es decir, sus divisores menores que él mismo).
+1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número perfecto" si es un número perfecto, y "no es un número perfecto" en caso contrario.
 
 1. Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una dirección de correo electrónico válida" si es una dirección de correo electrónico válida, y "no es una dirección de correo electrónico válida" en caso contrario.
 
