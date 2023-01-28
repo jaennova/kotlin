@@ -6,8 +6,6 @@
 
 1. Crea una variable llamada "numeroGenerico" de tipo Any y asígnale el valor 10.
 
-1. Crea una variable llamada "objetoGenerico" de tipo Any y asígnale el valor de 
-un objeto cualquiera.
 
 1. Crea una variable llamada "arregloGenerico" de tipo Any y asígnale un arreglo con diferentes tipos de elementos.
 
@@ -18,8 +16,6 @@ un objeto cualquiera.
 1. Crea una variable llamada "valorOpcional" de tipo Any? y asígnale el valor "Hola mundo".
 
 1. Crea una variable llamada "numeroOpcional" de tipo Any? y asígnale el valor null.
-
-1. Crea una variable llamada "objetoOpcional" de tipo Any? y asígnale el valor null.
 
 1. Crea una variable llamada "arregloOpcional" de tipo Any? y asígnale un arreglo con 
 diferentes tipos de elementos o null.
