@@ -4,7 +4,7 @@ Pedes revisar mas sobre la sentencia if [aqui.](https://cursokotlin.com/capitulo
 
 ## Enunciados
 
-1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es primo" si es primo, y "no es primo" en caso contrario.
+1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es par" si es par, y "no es par" en caso contrario.
 
 1. Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es un palíndromo" si es un palíndromo, y "no es un palíndromo" en caso contrario.
 
