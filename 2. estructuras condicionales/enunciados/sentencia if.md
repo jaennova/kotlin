@@ -8,13 +8,13 @@ Pedes revisar mas sobre la sentencia if [aqui.](https://cursokotlin.com/capitulo
 
 1. Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es un palíndromo" si es un palíndromo, y "no es un palíndromo" en caso contrario.
 
-1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número perfecto" si es un número perfecto, y "no es un número perfecto" en caso contrario.
+1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número perfecto" si es un número perfecto, y "no es un número perfecto" en caso contrario.  Un número es perfecto si es igual a la suma de sus divisores propios (es decir, sus divisores menores que él mismo).
 
 1. Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una dirección de correo electrónico válida" si es una dirección de correo electrónico válida, y "no es una dirección de correo electrónico válida" en caso contrario.
 
 1. Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una palabra palíndromo" si es una palabra palíndromo, y "no es una palabra palíndromo" en caso contrario.
 
-1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número triangular" si es un número triangular, y "no es un número triangular" en caso contrario.
+1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número triangular" si es un número triangular, y "no es un número triangular" en caso contrario. Un número es triangular si es el resultado de la suma de los n primeros números naturales para algún valor de n.
 
 1. Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una dirección URL válida" si es una dirección URL válida, y "no es una dirección URL válida" en caso contrario.
 
@@ -22,7 +22,7 @@ Pedes revisar mas sobre la sentencia if [aqui.](https://cursokotlin.com/capitulo
 
 1. Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una dirección IPv6 válida" si es una dirección IPv6 válida, y "no es una dirección IPv6 válida" en caso contrario.
 
-1. Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una contraseña segura" si es una contraseña segura, y "no es una contraseña segura" en caso contrario.
+1. Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una contraseña segura" si es una contraseña segura, y "no es una contraseña segura" en caso contrario.  Una contraseña segura es aquella que cumple con ciertas condiciones, como tener al menos 8 caracteres, incluir mayúsculas, minúsculas y dígitos, y no ser una palabra común.
 
 1. Escribe una sentencia if que determine si un número entero es un número cubo. Un número es cubo si es el resultado de multiplicar un número entero por sí mismo tres veces.
 
