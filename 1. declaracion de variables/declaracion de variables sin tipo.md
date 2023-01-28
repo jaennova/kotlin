@@ -1,4 +1,4 @@
-# Declaración de variables sin tipo (Any, Any?, Unit)
+# Declaración de variables sin tipo (Any, Any?)
 
 ## Any
 
@@ -21,16 +21,5 @@ var variable: Any? = null
 
 En este ejemplo, "variable" puede contener cualquier tipo de valor, pero también puede ser nula.
 
-## Unit
 
-La palabra clave "Unit" se utiliza para declarar una función o una propiedad que no devuelve ningún valor. Por ejemplo:
-
-```kotlin
-fun imprimirMensaje() : Unit {
-    println("Hola mundo")
-}
-```
-
-En este ejemplo, la función "imprimirMensaje" no devuelve ningún valor, y se utiliza la palabra clave "Unit" para indicarlo.
-
-En resumen, "Any" se utiliza para declarar una variable que puede contener cualquier tipo de valor, "Any?" se utiliza para declarar una variable opcional que también puede contener cualquier tipo de valor y "Unit" se utiliza para declarar una función o propiedad que no devuelve ningún valor.
+En resumen, "Any" se utiliza para declarar una variable que puede contener cualquier tipo de valor y "Any?" se utiliza para declarar una variable opcional que también puede contener cualquier tipo de valor.
