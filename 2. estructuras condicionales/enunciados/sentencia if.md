@@ -6,38 +6,43 @@ Pedes revisar mas sobre la sentencia if [aqui.](https://cursokotlin.com/capitulo
 
 1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es par" si es par, y "no es par" en caso contrario.
 
-1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número perfecto" si es un número perfecto, y "no es un número perfecto" en caso contrario.
+1. Escribe una sentencia if que tome un carácter como argumento y devuelva "es una vocal" si es una vocal, y "no es una vocal" en caso contrario.
 
-1. Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una dirección de correo electrónico válida" si es una dirección de correo electrónico válida, y "no es una dirección de correo electrónico válida" en caso contrario.
+1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es negativo" si es negativo, y "no es negativo" en caso contrario.
 
-1. Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una palabra palíndromo" si es una palabra palíndromo, y "no es una palabra palíndromo" en caso contrario.
+1. Escribe una sentencia if que tome una cadena como argumento y devuelva "es palíndrome" si es una palabra o frase que se lee igual de izquierda a derecha 
+y derecha a izquierda, y "no es palíndrome" en caso contrario.
+1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es múltiplo de 3" si es múltiplo de 3, y "no es múltiplo de 3" en caso contrari
+o.
+1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es primo" si es un número primo, y "no es primo" en caso contrario.
 
-1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número triangular" si es un número triangular, y "no es un número triangular" en caso contrario. Un número es triangular si es el resultado de la suma de los n primeros números naturales para algún valor de n.
+1. Escribe una sentencia if que tome un número entero como argumento y devuelva "está en el rango de 10 a 20" si el número está entre 10 y 20, y "no está en el 
+rango de 10 a 20" en caso contrario.
+1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número de un solo dígito" si el número solo tiene un dígito, y "no es un 
+número de un solo dígito" en caso contrario.
+1. Escribe una sentencia if que tome una cadena como argumento y devuelva "es una dirección de correo electrónico válida" si la cadena cumple con el formato de una 
+dirección de correo electrónico válida, y "no es una dirección de correo electrónico válida" en caso contrario.
+1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número de dos dígitos" si el número tiene dos dígitos, y "no es un número
+ de dos dígitos" en caso contrario.
+1. Escribe una sentencia if que tome una cadena como argumento y devuelva "es un número hexadecimal válido" si la cadena cumple con el formato de un número 
+hexadecimal válido, y "no es un número hexadecimal válido" en caso contrario.
 
-1. Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una dirección URL válida" si es una dirección URL válida, y "no es una dirección URL válida" en caso contrario.
+1. Escribe una sentencia if que tome una cadena como argumento y devuelva "es una fecha válida" si la cadena cumple con el formato de una fecha válida (dd/mm/yyyy), y "no es una fecha válida" en caso contrario.
 
-1. Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una dirección IPv4 válida" si es una dirección IPv4 válida, y "no es una dirección IPv4 válida" en caso contrario.
+1. Escribe una sentencia if que tome una cadena como argumento y devuelva "es una hora válida" si la cadena cumple con el formato de una hora válida (hh:mm:ss), y "no es una hora válida" en caso contrario.
 
-1. Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una dirección IPv6 válida" si es una dirección IPv6 válida, y "no es una dirección IPv6 válida" en caso contrario.
+1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número de tres dígitos" si el número tiene tres dígitos, y "no es un número de tres dígitos" en caso contrario.
 
-1. Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una contraseña segura" si es una contraseña segura, y "no es una contraseña segura" en caso contrario.  Una contraseña segura es aquella que cumple con ciertas condiciones, como tener al menos 8 caracteres, incluir mayúsculas, minúsculas y dígitos, y no ser una palabra común.
+1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número de cuatro dígitos" si el número tiene cuatro dígitos, y "no es un número de cuatro dígitos" en caso contrario.
 
-1. Escribe una sentencia if que determine si un número entero es un número cubo. Un número es cubo si es el resultado de multiplicar un número entero por sí mismo tres veces.
+1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número divisible por 5" si el número es divisible por 5, y "no es un número divisible por 5" en caso contrario.
 
-1. Escribe una sentencia if que determine si una cadena de caracteres es una fecha válida en el formato yyyy-mm-dd.
+1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número divisible por 7" si el número es divisible por 7, y "no es un número divisible por 7" en caso contrario.
 
-1. Escribe una sentencia if que determine si una cadena de caracteres es una fecha válida en el formato dd/mm/yyyy.
+1. Escribe una sentencia if que tome una cadena como argumento y devuelva "es una URL válida" si la cadena cumple con el formato de una URL válida, y "no es una URL válida" en caso contrario.
 
-1. Escribe una sentencia if que determine si una cadena de caracteres es una hora válida en el formato HH:mm:ss.
+1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número divisible por 11" si el número es divisible por 11, y "no es un número divisible por 11" en caso contrario.
 
-1. Escribe una sentencia if que determine si un número entero es un número pentagonal. Un número es pentagonal si es el resultado de la suma de los tres primeros números naturales, más los dos últimos, para algún valor de n.
+1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número divisible por 13" si el número es divisible por 13, y "no es un número divisible por 13" en caso contrario.
 
-1. Escribe una sentencia if que determine si un número entero es un número hexagonal. Un número es hexagonal si es el resultado de la suma de los cuatro primeros números naturales, más los tres últimos, para algún valor de n.
-
-1. Escribe una sentencia if que determine si un número entero es un número heptagonal. Un número es heptagonal si es el resultado de la suma de los cinco primeros números naturales, más los cuatro últimos, para algún valor de n.
-
-1. Escribe una sentencia if que determine si un número entero es un número capicúa. Un número es capicúa si sus dígitos son iguales tanto cuando se leen de izquierda a derecha como de derecha a izquierda.
-
-1. Escribe una sentencia if que determine si una cadena de caracteres es un número de teléfono válido en el formato +xx xxxx xxxx xxx, donde x es un dígito.
-
-1. Escribe una sentencia if que determine si un número entero es un número de Armstrong. Un número de Armstrong es aquel que es igual a la suma de sus dígitos elevados al cubo. Por ejemplo, el número 371 es un número de Armstrong, ya que 3^3 + 7^3 + 1^3 = 371.
+1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número capicúa" si el número es igual a su número inverso, y "no es un número capicúa" en caso contrario.
