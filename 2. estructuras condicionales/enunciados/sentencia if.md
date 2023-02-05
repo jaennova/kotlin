@@ -18,8 +18,8 @@ rango de 10 a 20" en caso contrario.
 1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número de un solo dígito" si el número solo tiene un dígito, y "no es un 
 número de un solo dígito" en caso contrario.
 
-
-1. Escribe una sentencia if que tome una cadena como argumento y devuelva "es una fecha válida" si la cadena cumple con el formato de una fecha válida (dd/mm/yyyy), y "no es una fecha válida" en caso contrario.
+1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número de dos dígitos" si el número tiene dos dígitos, y "no es un número
+ de dos dígitos" en caso contrario.
 
 1. Escribe una sentencia if que tome una cadena como argumento y devuelva "es una hora válida" si la cadena cumple con el formato de una hora válida (hh:mm:ss), y "no es una hora válida" en caso contrario.
 
