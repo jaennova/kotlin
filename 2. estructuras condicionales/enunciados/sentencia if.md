@@ -12,18 +12,15 @@ Pedes revisar mas sobre la sentencia if [aqui.](https://cursokotlin.com/capitulo
 
 1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es múltiplo de 3" si es múltiplo de 3, y "no es múltiplo de 3" en caso contrari
 o.
-1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es primo" si es un número primo, y "no es primo" en caso contrario.
 
 1. Escribe una sentencia if que tome un número entero como argumento y devuelva "está en el rango de 10 a 20" si el número está entre 10 y 20, y "no está en el 
 rango de 10 a 20" en caso contrario.
 1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número de un solo dígito" si el número solo tiene un dígito, y "no es un 
 número de un solo dígito" en caso contrario.
-1. Escribe una sentencia if que tome una cadena como argumento y devuelva "es una dirección de correo electrónico válida" si la cadena cumple con el formato de una 
-dirección de correo electrónico válida, y "no es una dirección de correo electrónico válida" en caso contrario.
+
 1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número de dos dígitos" si el número tiene dos dígitos, y "no es un número
  de dos dígitos" en caso contrario.
-1. Escribe una sentencia if que tome una cadena como argumento y devuelva "es un número hexadecimal válido" si la cadena cumple con el formato de un número 
-hexadecimal válido, y "no es un número hexadecimal válido" en caso contrario.
+
 
 1. Escribe una sentencia if que tome una cadena como argumento y devuelva "es una fecha válida" si la cadena cumple con el formato de una fecha válida (dd/mm/yyyy), y "no es una fecha válida" en caso contrario.
 
