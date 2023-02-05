@@ -10,8 +10,6 @@ Pedes revisar mas sobre la sentencia if [aqui.](https://cursokotlin.com/capitulo
 
 1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es negativo" si es negativo, y "no es negativo" en caso contrario.
 
-1. Escribe una sentencia if que tome una cadena como argumento y devuelva "es palíndrome" si es una palabra o frase que se lee igual de izquierda a derecha 
-y derecha a izquierda, y "no es palíndrome" en caso contrario.
 1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es múltiplo de 3" si es múltiplo de 3, y "no es múltiplo de 3" en caso contrari
 o.
 1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es primo" si es un número primo, y "no es primo" en caso contrario.
