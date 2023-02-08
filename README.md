@@ -81,7 +81,7 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 
 ### 2. Estructuras condicionales
 
-* Sentencia "if": [[uso]][u if] [[enunciados]][e if]
+* Sentencia "if": [[uso]][u if] [[enunciados]][e if] [[mis soluciones]][ms if]
 * Sentencia "when": [[uso]][u when] [[enunciados]][e when]
 * Uso de paréntesis para evaluar condiciones múltiples: [[uso]][u multiples] [[enunciados]][e multiples]
 * Anidamiento de estructuras condicionales:[[uso]][u anidamientos] [[enunciados]][e anidamientos]
@@ -265,3 +265,4 @@ Aquí hay una serie de recursos para facilitar tu camino a la programación de f
 [e extension]: /4.%20funciones/enunciados/de%20extension.md
 [ms tiposdedatos]: /soluciones/1.%20declaracion%20de%20variables/tipos%20de%20datos.md
 [ms operadores]: /soluciones/1.%20declaracion%20de%20variables/operadores.md
+[ms if]: /soluciones/2.%20estructuras%20condicionales/sentencia%20if.md
