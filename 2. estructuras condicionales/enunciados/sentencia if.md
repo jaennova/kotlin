@@ -21,8 +21,6 @@ número de un solo dígito" en caso contrario.
 1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número de dos dígitos" si el número tiene dos dígitos, y "no es un número
  de dos dígitos" en caso contrario.
 
-1. Escribe una sentencia if que tome una cadena como argumento y devuelva "es una hora válida" si la cadena cumple con el formato de una hora válida (hh:mm:ss), y "no es una hora válida" en caso contrario.
-
 1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número de tres dígitos" si el número tiene tres dígitos, y "no es un número de tres dígitos" en caso contrario.
 
 1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número de cuatro dígitos" si el número tiene cuatro dígitos, y "no es un número de cuatro dígitos" en caso contrario.
@@ -30,8 +28,6 @@ número de un solo dígito" en caso contrario.
 1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número divisible por 5" si el número es divisible por 5, y "no es un número divisible por 5" en caso contrario.
 
 1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número divisible por 7" si el número es divisible por 7, y "no es un número divisible por 7" en caso contrario.
-
-1. Escribe una sentencia if que tome una cadena como argumento y devuelva "es una URL válida" si la cadena cumple con el formato de una URL válida, y "no es una URL válida" en caso contrario.
 
 1. Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número divisible por 11" si el número es divisible por 11, y "no es un número divisible por 11" en caso contrario.
 

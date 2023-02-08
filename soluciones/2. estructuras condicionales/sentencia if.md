@@ -21,229 +21,256 @@ Escribe una sentencia if que tome un número entero como argumento y devuelva "e
 
 ## Enunciado 2
 
-Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es un palíndromo" si es un palíndromo, y "no es un palíndromo" en caso contrario.
+Escribe una sentencia if que tome un carácter como argumento y devuelva "es una vocal" si es una vocal, y "no es una vocal" en caso contrario.
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main() {.
+    println("ingrese la letra")
+    val vocal = readln().lowercase()
+    val tamaño = vocal.length
+    if (tamaño == 1){
+        if (vocal == "a" || vocal == "e" || vocal == "i" || vocal == "o" || vocal == "u")
+            println("la letra ingresada es una vocal")
+        else
+            println("la letra ingresada no es una vocal")
+    }else{
+        println("solo debe ingresar una letra")
+    }
+}
   ```
 </details>
 
 ## Enunciado 3
 
-Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número perfecto" si es un número perfecto, y "no es un número perfecto" en caso contrario. Un número es perfecto si es igual a la suma de sus divisores propios (es decir, sus divisores menores que él mismo).
+Escribe una sentencia if que tome un número entero como argumento y devuelva "es negativo" si es negativo, y "no es negativo" en caso contrario.
 
 <details>
   <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
+
+```kotlin
+fun main() {
+    val entero = 2
+    if (entero >= 0)
+        println("no es negativo")
+    else
+        println("es negativo")
+}
+```
 </details>
 
 ## Enunciado 4
 
-Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una dirección de correo electrónico válida" si es una dirección de correo electrónico válida, y "no es una dirección de correo electrónico válida" en caso contrario.
+Escribe una sentencia if que tome un número entero como argumento y devuelva "es múltiplo de 3" si es múltiplo de 3, y "no es múltiplo de 3" en caso contrario.
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main (){
+    println("ingrese un numero")
+    val entero = readln().toInt()
+    if (entero % 3 == 0) {
+        println("es múltiplo de 3")
+    } else {
+        println("no es múltiplo de 3")
+    }
+
+}
   ```
 </details>
 
 ## Enunciado 5
 
-Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una palabra palíndromo" si es una palabra palíndromo, y "no es una palabra palíndromo" en caso contrario.
+Escribe una sentencia if que tome un número entero como argumento y devuelva "está en el rango de 10 a 20" si el número está entre 10 y 20, y "no está en el rango de 10 a 20" en caso contrario.
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main (){
+    println("ingrese un numero")
+    val entero = readln().toInt()
+    if (entero in 10..20)
+        println("el numero $entero esta en el rango del 10 al 20")
+    else
+        println("$entero no esta dentro del rango")
+}
   ```
 </details>
 
 ## Enunciado 6
 
-Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número triangular" si es un número triangular, y "no es un número triangular" en caso contrario. Un número es triangular si es el resultado de la suma de los n primeros números naturales para algún valor de n.
+Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número de un solo dígito" si el número solo tiene un dígito, y "no es un número de un solo dígito" en caso contrario.
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main (){
+    println("ingrese un numero")
+    val entero = readln().toInt()
+    if (entero >=-9 && entero <= 9)
+        println("$entero es un numero de un solo digito")
+    else
+        println("$entero no es un numero de un solo digito")
+}
   ```
 </details>
 
 ## Enunciado 7
 
-Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una dirección URL válida" si es una dirección URL válida, y "no es una dirección URL válida" en caso contrario.
+Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número de dos dígitos" si el número tiene dos dígitos, y "no es un número de dos dígitos" en caso contrario.
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main (){
+    println("ingrese un numero")
+    val entero = readln().toInt()
+    if (entero >=10 && entero <= 99)
+        println("$entero es un numero de dos digitos")
+    else
+        println("$entero no es un numero de dos digitos")
+}
   ```
 </details>
 
 ## Enunciado 8
 
-Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una dirección IPv4 válida" si es una dirección IPv4 válida, y "no es una dirección IPv4 válida" en caso contrario.
+Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número de tres dígitos" si el número tiene tres dígitos, y "no es un número de tres dígitos" en caso contrario.
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main (){
+    println("ingrese un numero")
+    val entero = readln().toInt()
+    if (entero in 100..999)
+        println("el $entero es de 3 digitos")
+    else
+        println("$entero no es de 3 digitos")
+}
   ```
 </details>
 
 ## Enunciado 9
 
-Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una dirección IPv6 válida" si es una dirección IPv6 válida, y "no es una dirección IPv6 válida" en caso contrario.
+Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número de cuatro dígitos" si el número tiene cuatro dígitos, y "no es un número de cuatro dígitos" en caso contrario.
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main (){
+    println("ingrese un numero")
+    val entero = readln().toInt()
+    if (entero in 9999 downTo 1000)
+        println("el $entero es de 4 digitos")
+    else
+        println("$entero no es de 4 digitos")
+}
   ```
 </details>
 
 ## Enunciado 10
 
-Escribe una sentencia if que tome una cadena de caracteres como argumento y devuelva "es una contraseña segura" si es una contraseña segura, y "no es una contraseña segura" en caso contrario. Una contraseña segura es aquella que cumple con ciertas condiciones, como tener al menos 8 caracteres, incluir mayúsculas, minúsculas y dígitos, y no ser una palabra común.
+Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número divisible por 5" si el número es divisible por 5, y "no es un número divisible por 5" en caso contrario.
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main (){
+    println("ingrese un numero")
+    val entero = readln().toInt()
+    if (entero % 5 == 0)
+        println("$entero es un numero divisible entre 5")
+    else
+        println("$entero no es un numero divisible entre 5")
+}
   ```
 </details>
 
 ## Enunciado 11
 
-Escribe una sentencia if que determine si un número entero es un número cubo. Un número es cubo si es el resultado de multiplicar un número entero por sí mismo tres veces.
+Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número divisible por 7" si el número es divisible por 7, y "no es un número divisible por 7" en caso contrario.
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main (){
+    println("ingrese un numero")
+    val entero = readln().toInt()
+    if (entero % 7 == 0)
+        println("$entero es un numero divisible entre 7")
+    else
+        println("$entero no es un numero divisible entre 7")
+}
   ```
 </details>
 
 ## Enunciado 12
 
-Escribe una sentencia if que determine si una cadena de caracteres es una fecha válida en el formato yyyy-mm-dd.
+Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número divisible por 11" si el número es divisible por 11, y "no es un número divisible por 11" en caso contrario.
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main (){
+    println("ingrese un numero")
+    val entero = readln().toInt()
+    if (entero % 11 == 0)
+        println("$entero es un numero divisible entre 11")
+    else
+        println("$entero no es un numero divisible entre 11")
+}
   ```
 </details>
 
 ## Enunciado 13
 
-Escribe una sentencia if que determine si una cadena de caracteres es una fecha válida en el formato dd/mm/yyyy.
+Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número divisible por 13" si el número es divisible por 13, y "no es un número divisible por 13" en caso contrario.
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main (){
+    println("ingrese un numero")
+    val entero = readln().toInt()
+    if (entero % 13 == 0)
+        println("$entero es un numero divisible entre 13")
+    else
+        println("$entero no es un numero divisible entre 13")
+}
   ```
 </details>
 
 ## Enunciado 14
 
-Escribe una sentencia if que determine si una cadena de caracteres es una hora válida en el formato HH:mm:ss.
+Escribe una sentencia if que tome un número entero como argumento y devuelva "es un número capicúa" si el número es igual a su número inverso, y "no es un número capicúa" en caso contrario.
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main() {
+    val num = readln()
+    val numString = num.toString()
+    val reverseNumString = numString.reversed()
+
+    if (numString == reverseNumString) {
+        println("es un número capicúa")
+    } else {
+        println("no es un número capicúa")
+    }
+}
   ```
 </details>
-
-## Enunciado 15
-
-Escribe una sentencia if que determine si un número entero es un número pentagonal. Un número es pentagonal si es el resultado de la suma de los tres primeros números naturales, más los dos últimos, para algún valor de n.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 16
-
-Escribe una sentencia if que determine si un número entero es un número hexagonal. Un número es hexagonal si es el resultado de la suma de los cuatro primeros números naturales, más los tres últimos, para algún valor de n.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 17
-
-Escribe una sentencia if que determine si un número entero es un número heptagonal. Un número es heptagonal si es el resultado de la suma de los cinco primeros números naturales, más los cuatro últimos, para algún valor de n.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 18
-
-Escribe una sentencia if que determine si un número entero es un número capicúa. Un número es capicúa si sus dígitos son iguales tanto cuando se leen de izquierda a derecha como de derecha a izquierda.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 19
-
-Escribe una sentencia if que determine si una cadena de caracteres es un número de teléfono válido en el formato +xx xxxx xxxx xxx, donde x es un dígito.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 20
-
-Escribe una sentencia if que determine si un número entero es un número de Armstrong. Un número de Armstrong es aquel que es igual a la suma de sus dígitos elevados al cubo. Por ejemplo, el número 371 es un número de Armstrong, ya que 3^3 + 7^3 + 1^3 = 371.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
