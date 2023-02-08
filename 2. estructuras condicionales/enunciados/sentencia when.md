@@ -4,40 +4,42 @@
 
 ## Enunciados
 
-1. Escribe una función que tome una cadena de caracteres como argumento y devuelva **`true`** si es una palabra palíndromo, y **`false`** en caso contrario. Una palabra palíndromo es aquella que se lee de la misma manera tanto de izquierda a derecha como de derecha a izquierda, sin tener en cuenta los espacios en blanco ni la puntuación.
+1. Determina el mayor de dos números y devuelve su valor.
 
-2. Escribe una función que tome un número entero como argumento y devuelva **`true`** si es un número triangular, y **`false`** en caso contrario. Un número es triangular si es el resultado de la suma de los **`n`** primeros números naturales para algún valor de **`n`**.
-3. Escribe una función que tome una cadena de caracteres como argumento y devuelva **`true`** si es una dirección URL válida, y **`false`** en caso contrario.
-4. Escribe una función que tome una cadena de caracteres como argumento y devuelva **`true`** si es una dirección IPv4 válida, y **`false`** en caso contrario.
-5. Escribe una función que tome una cadena de caracteres como argumento y devuelva **`true`** si es una dirección IPv6 válida, y **`false`** en caso contrario.
-6. Escribe una función que tome una cadena de caracteres como argumento y devuelva **`true`** si es una contraseña segura, y **`false`** en caso contrario. Una contraseña segura es aquella que cumple con ciertas condiciones, como tener al menos 8 caracteres, incluir mayúsculas, minúsculas y dígitos, y no ser una palabra común.
-7. Escribe una función que tome un número entero como argumento y devuelva **`true`** si es un número cubo, y **`false`** en caso contrario. Un número es cubo si es el resultado de multiplicar un número entero por sí mismo tres veces.
-8. Escribe una función que tome una cadena de caracteres como argumento y devuelva **`true`** si es una fecha válida en el formato **`yyyy-mm-dd`**, y **`false`** en caso contrario.
-9. Escribe una función que tome un número entero como argumento y devuelva el día de la semana correspondiente al número dado. Si el número no es válido (es decir, no está entre 1 y 7), la función debe devolver **`null`**.
-10. Escribe una función que tome un número entero como argumento y devuelva el nombre del mes correspondiente al número dado en inglés. Si el número no es válido (es decir, no está entre 1 y 12), la función debe devolver **`null`**.
-11. Escribe una función que tome una cadena de caracteres como argumento y devuelva **`true`** si es una dirección de correo electrónico válida que cumple con todas las condiciones del estándar RFC 5322, y **`false`** en caso contrario.
-12. Escribe una función que tome una cadena de caracteres como argumento y devuelva **`true`** si es una palabra palíndromo que puede leerse de izquierda a derecha y de derecha a izquierda tanto en minúsculas como en mayúsculas, y **`false`** en caso contrario.
-13. Escribe una función que tome una cadena de caracteres como argumento y devuelva **`true`** si es una contraseña segura que cumple con todas las condiciones siguientes:
-    - Tiene al menos 8 caracteres.
-    - Contiene al menos una letra minúscula, una letra mayúscula y un dígito.
-    - No es una palabra común.
-    - No contiene caracteres no alfanuméricos.
+1. Determina el signo de un número y devuelve "positivo", "negativo" o "cero".
 
-14. Escribe una función que tome un número entero como argumento y devuelva **`true`** si es un número primo, y **`false`** en caso contrario. Un número primo es aquel que sólo es divisible por él mismo y por el número 1.
-2. Escribe una función que tome un número entero como argumento y devuelva **`true`** si es un número de Armstrong, y **`false`** en caso contrario. Un número de Armstrong es aquel que es igual a la suma de sus dígitos elevados a la potencia del número de dígitos que tiene. Por ejemplo, el número 371 es un número de Armstrong, ya que 3^3 + 7^3 + 1^3 = 371.
-3. Escribe una función que tome una cadena de caracteres como argumento y devuelva **`true`** si es una cadena de caracteres que representa un número binario válido, y **`false`** en caso contrario. Una cadena de caracteres es un número binario válido si sólo contiene los dígitos **`0`** y **`1`**.
-4. Escribe una función que tome una cadena de caracteres como argumento y devuelva **`true`** si es una cadena de caracteres que representa un número hexadecimal válido, y **`false`** en caso contrario. Una cadena de caracteres es un número hexadecimal válido si sólo contiene los dígitos **`0`** a **`9`** y las letras **`A`** a **`F`** (tanto en mayúsculas como en minúsculas).
-5. Escribe una función que tome una cadena de caracteres como argumento y devuelva **`true`** si es una palabra que cumple con todas las reglas del juego del ahorcado, y **`false`** en caso contrario. Una palabra cumple con las reglas del juego del ahorcado si cumple con las siguientes condiciones:
-   - No contiene caracteres especiales o números.
-   - No es una palabra común o de uso frecuente.
-   - Tiene al menos 5 letras.
-1. Escribe una función que tome una cadena de caracteres como argumento y devuelva **`true`** si es una palabra que cumple con todas las reglas del juego de palabras cruzadas, y **`false`** en caso contrario. Una palabra cumple con las reglas del juego de palabras cruzadas si cumple con las siguientes condiciones:
-   - Es una palabra válida en el idioma dado (por ejemplo, en español).
-   - No es una palabra muy común o de uso frecuente.
-   - Tiene al menos 3 letras.
-   - No es un nombre propio o una palabra escrita con mayúsculas.
+1. Convierte una calificación numérica en una letra y devuelve "A", "B", "C", "D" o "F".
 
-1. Escribe una función que tome una cadena de caracteres como argumento y devuelva **`true`** si es una palabra que cumple con todas las reglas del juego del ahorcado, y **`false`** en caso contrario. Una palabra cumple con las reglas del juego del ahorcado si cumple con las siguientes condiciones:
-   - No contiene caracteres especiales o números.
-   - No es una palabra común o de uso frecuente.
-   - Tiene al menos 5 letras.
+1. Determina si un carácter es una vocal y devuelve "vocal" o "no vocal".
+
+1. Determina si un año es bisiesto y devuelve "bisiesto" o "no bisiesto".
+
+1. Determina si un número es par o impar y devuelve "par" o "impar".
+
+1. Determina si un número es divisible por otro número y devuelve "divisible" o "no divisible".
+
+1. Determina el nombre del día de la semana dado un número del 1 al 7.
+
+1. Determina el nombre del mes dado un número del 1 al 12.
+
+1. Determina el resultado de una operación matemática simple dada la operación y los operandos, por ejemplo, "suma", "resta", "multiplicación" o "división".
+
+1. Determina el nombre del planeta dado un número del 1 al 8.
+
+1. Determina si un número es positivo, negativo o cero.
+
+1. Determina si un número es un número primo y devuelve "primo" o "no primo".
+
+1. Determina si un número es un número perfecto y devuelve "perfecto" o "no perfecto".
+
+1. Determina si un número es un número armstrong y devuelve "armstrong" o "no armstrong".
+
+1. Determina si un número es un número fibonacci y devuelve "fibonacci" o "no fibonacci".
+
+1. Determina si un número es un número triangular y devuelve "triangular" o "no triangular".
+
+1. Determina si una cadena de caracteres es una frase palíndroma y devuelve "palíndroma" o "no palíndroma".
+
+1. Determina si una cadena de caracteres es un número y devuelve "número" o "no número".
+
+1. Determina si una cadena de caracteres es una dirección de correo electrónico válida y devuelve "válida" o "no válida".
