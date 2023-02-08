@@ -6,6 +6,8 @@
 
 1. Determina el mayor de dos números y devuelve su valor.
 
+1. Determina a que cuartil pertenece un número en un conjunto de datos y devuelve "primer cuartil", "segundo cuartil", "tercer cuartil" o "fuera de los cuartiles".
+
 1. Determina el signo de un número y devuelve "positivo", "negativo" o "cero".
 
 1. Convierte una calificación numérica en una letra y devuelve "A", "B", "C", "D" o "F".
@@ -41,5 +43,3 @@
 1. Determina si una cadena de caracteres es una frase palíndroma y devuelve "palíndroma" o "no palíndroma".
 
 1. Determina si una cadena de caracteres es un número y devuelve "número" o "no número".
-
-1. Determina si una cadena de caracteres es una dirección de correo electrónico válida y devuelve "válida" o "no válida".
