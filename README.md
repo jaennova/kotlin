@@ -14,7 +14,6 @@
   - [Introducción](#introducción)
   - [Indice](#indice)
   - [Entorno de desarrollo](#entorno-de-desarrollo)
-  - [Recursos extra](#recursos-extra)
   - [Tabla de contenido](#tabla-de-contenido)
     - [1. Declaración de variables](#1-declaración-de-variables)
     - [2. Estructuras condicionales](#2-estructuras-condicionales)
@@ -49,18 +48,6 @@ Algunos consejos y recomendaciones:
 
     > Tambien existe un editor de codigo online para Kotlin, puedes ingresar 
     [aquí](https://play.kotlinlang.org/) y ejecutar codigo Kotlin.
-
-## Recursos extra
-
-Aquí hay una serie de recursos para facilitar tu camino a la programación de forma autodidacta.
-
-* Aprende Ingles
-  * [Clozemaster](https://www.clozemaster.com/)
-  * [Learn American English](https://www.learnamericanenglishonline.com/)
-* Practica lo aprendido
-  * [HackerRank](https://hackerrank.com/)
-  * [Leetcode](https://leetcode.com/)
-  * [Codewars](https://www.codewars.com/)
 
 ## Tabla de contenido
 
