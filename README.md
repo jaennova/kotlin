@@ -70,7 +70,7 @@ Algunos consejos y recomendaciones:
 
 * Sentencia "if": [[uso]][u if] [[enunciados]][e if] [[mis soluciones]][ms if]
 * Sentencia "when": [[uso]][u when] [[enunciados]][e when]
-* Uso de paréntesis para evaluar condiciones múltiples: [[uso]][u multiples] [[enunciados]][e multiples]
+* Uso de paréntesis para evaluar condiciones múltiples: [[uso]][u multiples] [[enunciados]][e multiples] [[mis soluciones]][ms when]
 * Anidamiento de estructuras condicionales:[[uso]][u anidamientos] [[enunciados]][e anidamientos]
 
 ### 3. Bucles
@@ -253,3 +253,4 @@ Algunos consejos y recomendaciones:
 [ms tiposdedatos]: /soluciones/1.%20declaracion%20de%20variables/tipos%20de%20datos.md
 [ms operadores]: /soluciones/1.%20declaracion%20de%20variables/operadores.md
 [ms if]: /soluciones/2.%20estructuras%20condicionales/sentencia%20if.md
+[ms when]: /soluciones/2.%20estructuras%20condicionales/sentencia%20when.md
