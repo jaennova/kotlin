@@ -1,4 +1,4 @@
-# Solucion a los enunciados de ...
+# Solucion a los enunciados de sentencia when
 
 ## Enunciado 1
 
