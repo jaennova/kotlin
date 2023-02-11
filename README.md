@@ -70,7 +70,6 @@ Algunos consejos y recomendaciones:
 
 * Sentencia "if": [[uso]][u if] [[enunciados]][e if] [[mis soluciones]][ms if]
 * Sentencia "when": [[uso]][u when] [[enunciados]][e when] [[mis soluciones]][ms when]
-* Uso de paréntesis para evaluar condiciones múltiples: [[uso]][u multiples] [[enunciados]][e multiples] 
 * Anidamiento de estructuras condicionales:[[uso]][u anidamientos] [[enunciados]][e anidamientos]
 
 ### 3. Bucles
