@@ -161,7 +161,7 @@ Algunos consejos y recomendaciones:
 [u when]: /2.%20estructuras%20condicionales/sentencia%20when.md
 
 [e when]: /2.%20estructuras%20condicionales/enunciados/sentencia%20when.md
-[u multiples]: /2.%20estructuras%20condicionales/evaluar%20condiciones%20m%C3%BAltiples.md
+[u multiples]: /2.%20estructuras%20condicionales/evaluar%20condiciones%20multiples.md
 
 [e multiples]: /2.%20estructuras%20condicionales/enunciados/evaluar%20condiciones%20multiples.md
 
