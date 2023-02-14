@@ -2,7 +2,7 @@
 
 [Aqui](https://www.develou.com/for-en-kotlin/) hay mas informacion sobre los bucles for.
 
-## Enunciados
+## Enunciados 
 
 1. Imprimir los números del 1 al 10.
 
@@ -20,13 +20,11 @@
 
 1. Imprimir los números múltiplos de 5 del 5 al 50.
 
-1. mprimir los números fibonacci hasta el n-ésimo término (donde n es un número dado).
+1. Imprimir los números fibonacci hasta el n-ésimo término (donde n es un número dado).
 
 1. Imprimir los números triangulares hasta el n-ésimo término (donde n es un número dado).
 
 1. Imprimir los números primos hasta el n-ésimo término (donde n es un número dado).
-
-1. Imprimir los factoriales de los números del 1 al n (donde n es un número dado).
 
 1. Imprimir la suma de los cuadrados de los números del 1 al n (donde n es un número dado).
 
