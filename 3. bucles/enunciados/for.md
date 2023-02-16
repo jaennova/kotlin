@@ -33,7 +33,3 @@
 1. Imprimir la suma de los múltiplos de 3 y 5 hasta n (donde n es un número dado).
 
 1. Imprimir la suma de los dígitos de un número dado.
-
-1. Imprimir los números amigos hasta el n-ésimo término (donde n es un número dado).
-
-1. Imprimir la suma de los dígitos de cada número en un rango dado (por ejemplo, si el rango es del 1 al 100, imprimir la suma de los dígitos de 1, la suma de los dígitos de 2, ..., la suma de los dígitos de 100).

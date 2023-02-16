@@ -287,79 +287,27 @@ Imprimir los números perfectos hasta el n-ésimo término (donde n es un númer
 
 ## Enunciado 15
 
-Imprimir los factoriales de los números del 1 al n (donde n es un número dado).
+Imprimir la suma de los dígitos de un número dado.
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
  fun main() {
-    val n = readln().toInt()
-
-    for (i in 1..n) {
-        var factorial = 1
-        for (j in 1..i) {
-            factorial *= j
+    println("ingrese un numero")
+    val numero = readln().toIntOrNull()
+    var suma = 0
+    if (numero != null ){
+        val numStr = "$numero" // o val numStr = numero.toString() 
+        for (i in numStr.indices) // o  for (i in 0 until numStr.length)
+        {
+            suma += numStr[i].toString().toInt()
         }
-        println("El factorial de $i es $factorial")
+
+        println("La suma de los digitos del numero $numero es $suma")
+    } else{
+        println("ese no es un numero")
     }
 }
   ```
 </details>
-
-## Enunciado 16
-
-.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 17
-
-.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 18
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 19
-
-.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 20
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-

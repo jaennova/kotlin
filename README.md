@@ -73,7 +73,7 @@ Algunos consejos y recomendaciones:
 
 ### 3. Bucles
 
-* Bucles "for": [[uso]][u for] [[enunciados]][e for]
+* Bucles "for": [[uso]][u for] [[enunciados]][e for] [[mis soluciones]][ms for]
 * Bucles "for" anidados:[[uso]][u for anid] [[enunciados]][e for anid]
 * Bucles "for each": [[uso]][u foreach] [[enunciados]][e foreach]
 * Bucles "for each" anidados: [[uso]][u foreach anid] [[enunciados]][e foreach anid]
@@ -252,3 +252,4 @@ Algunos consejos y recomendaciones:
 [ms operadores]: /soluciones/1.%20declaracion%20de%20variables/operadores.md
 [ms if]: /soluciones/2.%20estructuras%20condicionales/sentencia%20if.md
 [ms when]: /soluciones/2.%20estructuras%20condicionales/sentencia%20when.md
+[ms for]: /soluciones/3.%20Bucles/for.md
