@@ -74,13 +74,9 @@ Algunos consejos y recomendaciones:
 ### 3. Bucles
 
 * Bucles "for": [[uso]][u for] [[enunciados]][e for] [[mis soluciones]][ms for]
-<!-- * Bucles "for" anidados:[[uso]][u for anid] [[enunciados]][e for anid] -->
 * Bucles "for each": [[uso]][u foreach] [[enunciados]][e foreach]
-* Bucles "for each" anidados: [[uso]][u foreach anid] [[enunciados]][e foreach anid]
 * Bucle "while": [[uso]][u while] [[enunciados]][e while]
-* Bucles "while" anidados:[[uso]][u while an] [[enunciados]][e while an]
 * Bucle "do-while": [[uso]][u do wh] [[enunciados]][e do wh]
-* Bucles "do-while" anidados: [[uso]][u do wh an] [[enunciados]][e do wh an]
 * Uso de la palabra clave "break" y "continue"para romper y continuar bucles: [[uso]][u break] [[enunciados]][e break]
 * Bucles infinitos: [[uso]][u infinitos] [[enunciados]][e infinitos]
 
