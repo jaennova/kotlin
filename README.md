@@ -74,7 +74,7 @@ Algunos consejos y recomendaciones:
 ### 3. Bucles
 
 * Bucles "for": [[uso]][u for] [[enunciados]][e for] [[mis soluciones]][ms for]
-* Bucles "for" anidados:[[uso]][u for anid] [[enunciados]][e for anid]
+<!-- * Bucles "for" anidados:[[uso]][u for anid] [[enunciados]][e for anid] -->
 * Bucles "for each": [[uso]][u foreach] [[enunciados]][e foreach]
 * Bucles "for each" anidados: [[uso]][u foreach anid] [[enunciados]][e foreach anid]
 * Bucle "while": [[uso]][u while] [[enunciados]][e while]
