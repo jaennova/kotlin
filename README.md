@@ -74,7 +74,7 @@ Algunos consejos y recomendaciones:
 ### 3. Bucles
 
 * Bucles "for": [[uso]][u for] [[enunciados]][e for] [[mis soluciones]][ms for]
-* Bucles "for each": [[uso]][u foreach] [[enunciados]][e foreach]
+* Bucles "for each": [[uso]][u foreach] [[enunciados]][e foreach] [[mis soluciones]][msforeacg]
 * Bucle "while": [[uso]][u while] [[enunciados]][e while]
 * Bucle "do-while": [[uso]][u do wh] [[enunciados]][e do wh]
 * Uso de la palabra clave "break" y "continue"para romper y continuar bucles: [[uso]][u break] [[enunciados]][e break]
@@ -249,3 +249,4 @@ Algunos consejos y recomendaciones:
 [ms if]: /soluciones/2.%20estructuras%20condicionales/sentencia%20if.md
 [ms when]: /soluciones/2.%20estructuras%20condicionales/sentencia%20when.md
 [ms for]: /soluciones/3.%20Bucles/for.md
+[msforeacg]: /soluciones/3.%20Bucles/forEach.md
