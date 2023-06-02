@@ -77,8 +77,8 @@ Algunos consejos y recomendaciones:
 * Bucles "for each": [[uso]][u foreach] [[enunciados]][e foreach] [[mis soluciones]][msforeacg]
 * Bucle "while": [[uso]][u while] [[enunciados]][e while]
 * Bucle "do-while": [[uso]][u do wh] [[enunciados]][e do wh]
-* Uso de la palabra clave "break" y "continue"para romper y continuar bucles: [[uso]][u break] [[enunciados]][e break]
-* Bucles infinitos: [[uso]][u infinitos] [[enunciados]][e infinitos]
+<!-- * Uso de la palabra clave "break" y "continue"para romper y continuar bucles: [[uso]][u break] [[enunciados]][e break]
+* Bucles infinitos: [[uso]][u infinitos] [[enunciados]][e infinitos] -->
 
 
 ### 4. Funciones
