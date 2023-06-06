@@ -31,13 +31,31 @@ Dado una lista de números enteros, escribe un código que determine si todos lo
 
 ## Enunciado 2
 
-
+Dado una lista de cadenas de texto, escribe un código que determine si alguna de las cadenas es un palíndromo (se lee igual de izquierda a derecha y de derecha a izquierda).
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main() {
+    val listaCadenas = listOf("radar", "hola", "reconocer", "casa", "ana")
+
+    var hayPalindromo = false
+
+    listaCadenas.forEach { cadena ->
+        if (cadena == cadena.reversed()) {
+            hayPalindromo = true
+            return@forEach  // Se encuentra un palíndromo, se sale del bucle
+        }
+    }
+
+    if (hayPalindromo) {
+        println("Se encontró al menos un palíndromo en la lista.")
+    } else {
+        println("No se encontraron palíndromos en la lista.")
+    }
+}
+
   ```
 </details>
 
