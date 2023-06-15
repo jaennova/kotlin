@@ -173,161 +173,89 @@ Dado una lista de cadenas de texto, escribe un código que determine si todas la
 
 ## Enunciado 7
 
-.
+Dado una lista de números enteros, escribe un código que determine si hay algún número que sea divisible tanto por 2 como por 3 al mismo tiempo.
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main() {
+    val numeros = listOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+    var divisiblePorDosYtres = false
+
+    numeros.forEach {
+        if (it % 2 == 0 && it % 3 == 0) {
+            divisiblePorDosYtres = true
+            return@forEach
+        }
+    }
+
+    if (divisiblePorDosYtres) {
+        println("Hay un número divisible por 2 y 3 al mismo tiempo.")
+    } else {
+        println("No hay números divisibles por 2 y 3 al mismo tiempo.")
+    }
+}
+
   ```
 </details>
 
 ## Enunciado 8
 
-.
+Dado una lista de cadenas de texto, escribe un código que determine cuántas de las cadenas tienen más de 5 caracteres y son palíndromos (se leen igual de izquierda a derecha y de derecha a izquierda).
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main() {
+    val cadenas = listOf("ana", "oso", "casa", "reconocer", "gato", "radar", "solos")
+    var contador = 0
+
+    cadenas.forEach { cadena ->
+        if (cadena.length > 5 && esPalindromo(cadena)) {
+            contador++
+        }
+    }
+
+    println("Cantidad de cadenas con más de 5 caracteres y son palíndromos: $contador")
+}
+
+fun esPalindromo(cadena: String): Boolean {
+    val cadenaReversa = cadena.reversed()
+    return cadena == cadenaReversa
+}
+
   ```
 </details>
 
 ## Enunciado 9
 
-.
+Dado una matriz de enteros, escribe un código que determine cuántos elementos de la matriz son múltiplos de 3 y no de 5, y que además sean mayores a 10 y menores a 20.
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
+fun main() {
+    val matriz = arrayOf(
+        intArrayOf(15, 9, 12),
+        intArrayOf(18, 7, 16),
+        intArrayOf(5, 14, 22),
+        intArrayOf(11, 17, 19)
+    )
+    var contador = 0
+
+    for (fila in matriz) {
+        for (elemento in fila) {
+            if (elemento % 3 == 0 && elemento % 5 != 0 && elemento > 10 && elemento < 20) {
+                contador++
+            }
+        }
+    }
+
+    println("Cantidad de elementos que son múltiplos de 3, no de 5, y están entre 10 y 20: $contador")
+}
  
   ```
 </details>
-
-## Enunciado 10
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 11
-
-.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 12
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 13
-
-.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 14
-
-.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 15
-
-.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 16
-
-.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 17
-
-.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 18
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 19
-
-.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 20
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
