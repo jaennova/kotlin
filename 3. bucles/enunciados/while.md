@@ -6,11 +6,6 @@ Puedes encontrar mas informacion sobre el bucle for [aqui](https://www.develou.c
 
 1. Crea una función que reciba una lista de números enteros y un número entero n, y devuelva un mensaje indicando que n se encuentra en la lista en el índice correspondiente. Si n no aparece en la lista, se debe devolver un mensaje indicando que no se encontró.
 
-1. Crea una función que reciba una lista de números enteros y un número entero n, y devuelva un mensaje indicando que n se encuentra en la lista en el último índice correspondiente. Si n no aparece en la lista, se debe devolver un mensaje indicando que no se encontró.
-
-1. Crea una función que reciba una lista de palabras y una palabra, y devuelva un mensaje indicando que la palabra se encuentra en la lista en el primer índice correspondiente. Si la palabra no aparece en la lista, se debe devolver un mensaje indicando que no se encontró.
-
-1. Crea una función que reciba una lista de palabras y una palabra, y devuelva un mensaje indicando que la palabra se encuentra en la lista en el último índice correspondiente. Si la palabra no aparece en la lista, se debe devolver un mensaje indicando que no se encontró.
 
 1. Crea una función que reciba una lista de números enteros y devuelva un mensaje indicando la suma de todos los números pares de la lista.
 
