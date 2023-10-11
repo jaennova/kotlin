@@ -378,9 +378,7 @@ Declara una variable con un valor inicial de una lista vacía, luego asigna el v
     }
 
 }
-</details>
-<br>
-
+```
 Salida:
 
 ```kotlin
@@ -388,7 +386,6 @@ Salida:
 2
 3
 ```
-
 </details>
 <br>
 

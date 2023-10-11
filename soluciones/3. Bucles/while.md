@@ -44,43 +44,25 @@ Crea una función que reciba una lista de números enteros y un número entero n
   <summary>Solucion</summary>
   
   ```kotlin
- fun main() {
-    val listaNumeros = listOf<Int>(1, 2, 3, 4, 5, 6)
-    println("ingrese el numero")
-    val numero = readln().toInt()
-    var indice = -1
-
-    for (i in listaNumeros.indices) {
-        if (listaNumeros[i] == numero){
-            indice = 1
-        }
-    }   
-    if (indice != -1){
-        println("$numero se encuentra en el ultimo indice $indice")
-    }else{
-        println("$numero no se encuentra en la lista")
-    }
-
-}
 
   ```
 </details>
 
 ## Enunciado 3
 
-.
+
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
- 
+
   ```
 </details>
 
 ## Enunciado 4
 
-.
+
 
 <details>
   <summary>Solucion</summary>
