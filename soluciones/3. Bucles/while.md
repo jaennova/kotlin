@@ -50,7 +50,7 @@ Crea una función que reciba una lista de números enteros y un número entero n
 
 ## Enunciado 3
 
-
+Crea una función que reciba una lista de números enteros y devuelva una nueva lista con todos los números impares de la lista original.
 
 <details>
   <summary>Solucion</summary>
@@ -62,6 +62,7 @@ Crea una función que reciba una lista de números enteros y un número entero n
 
 ## Enunciado 4
 
+Crea una función que reciba una lista de números enteros y un número entero n, y devuelva un mensaje indicando si hay al menos un par de números en la lista que sumen n. Si se cumple la condición, se debe devolver un mensaje indicando que se encontró un par de números. Si no se cumple la condición, se debe devolver un mensaje indicando que no se encontró ningún par de números.
 
 
 <details>
@@ -74,7 +75,8 @@ Crea una función que reciba una lista de números enteros y un número entero n
 
 ## Enunciado 5
 
-.
+Crea una función que reciba una lista de números enteros y devuelva un mensaje indicando el número más grande de la lista.
+
 
 <details>
   <summary>Solucion</summary>
@@ -86,7 +88,8 @@ Crea una función que reciba una lista de números enteros y un número entero n
 
 ## Enunciado 6
 
-.
+Crea una función que reciba una lista de palabras y una palabra, y devuelva un mensaje indicando si la palabra aparece al menos una vez en la lista. Si la palabra aparece, se debe devolver un mensaje indicando que se encontró. Si no aparece, se debe devolver un mensaje indicando que no se encontró.
+
 
 <details>
   <summary>Solucion</summary>
@@ -98,7 +101,8 @@ Crea una función que reciba una lista de números enteros y un número entero n
 
 ## Enunciado 7
 
-.
+Crea una función que reciba una lista de palabras y devuelva una nueva lista con todas las palabras en mayúsculas.
+
 
 <details>
   <summary>Solucion</summary>
@@ -110,7 +114,8 @@ Crea una función que reciba una lista de números enteros y un número entero n
 
 ## Enunciado 8
 
-.
+Crea una función que reciba una lista de palabras y devuelva una nueva lista con todas las palabras que comiencen con la misma letra que su final.
+
 
 <details>
   <summary>Solucion</summary>
@@ -119,140 +124,3 @@ Crea una función que reciba una lista de números enteros y un número entero n
  
   ```
 </details>
-
-## Enunciado 9
-
-.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 10
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 11
-
-.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 12
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 13
-
-.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 14
-
-.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 15
-
-.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 16
-
-.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 17
-
-.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 18
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 19
-
-.
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
-## Enunciado 20
-
-<details>
-  <summary>Solucion</summary>
-  
-  ```kotlin
- 
-  ```
-</details>
-
