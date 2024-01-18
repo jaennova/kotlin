@@ -1,6 +1,6 @@
 # Bucle while
 
-Puedes encontrar mas informacion sobre el bucle for [aqui](https://www.develou.com/while-en-kotlin/)
+Puedes encontrar mas informacion sobre el bucle while [aqui](https://www.develou.com/while-en-kotlin/)
 
 ## Enunciados
 

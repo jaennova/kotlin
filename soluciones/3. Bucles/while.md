@@ -8,42 +8,46 @@ Crea una función que reciba una lista de números enteros y un número entero n
   <summary>Solucion</summary>
   
   ```kotlin
- fun main() {
-    val listaNumeros = listOf<Int>(1, 2, 3, 4, 5, 6)
-    println("ingrese el numero")
-    val numero = readln().toInt()
-
-
-    var indice = 0
-    var encontrado = false
-
-    while (indice < listaNumeros.size) {
-        if (listaNumeros[indice] == numero) {
-            encontrado = true
-            break
-        }
-        indice++
-    }
-
-    if (encontrado) {
-        println("El número $numero se encuentra en la lista en el índice $indice.")
-    } else {
-        println("El número $numero no se encontró en la lista.")
-    }
-    println("la lista era: ${listaNumeros.joinToString()}")
+fun main() {
+    val list = listOf(1, 2, 3, 4, 5)
+    val n = 34
+    println(findIndex(list, n))
 }
 
+fun findIndex(list: List<Int>, n: Int): String {
+    println(list)
+    for ((index, value) in list.withIndex()) {
+        if (value == n) {
+            return "El valor $n se encuentra en la lista en el índice $index"
+        }
+    }
+    return "El valor $n no se encuentra en la lista"
+}
   ```
 </details>
 
 ## Enunciado 2
 
-Crea una función que reciba una lista de números enteros y un número entero n, y devuelva un mensaje indicando que n se encuentra en la lista en el último índice correspondiente. Si n no aparece en la lista, se debe devolver un mensaje indicando que no se encontró.
+  Crea una función que reciba una lista de números enteros y devuelva un mensaje indicando la suma de todos los números pares de la lista.
 
 <details>
   <summary>Solucion</summary>
   
   ```kotlin
+fun main() {
+    val listaNumeros = listOf(1,1,1,1,1)
+    println(sumarNumerosPares(listaNumeros))
+}
+
+fun sumarNumerosPares(listaNumeros: List<Int>): String {
+    var suma = 0
+    for (numero in listaNumeros) {
+        if (numero % 2 == 0) {
+            suma += numero
+        }
+    }
+    return if (suma < 1) "No hay números pares" else "La suma de los números pares es: $suma"
+}
 
   ```
 </details>
@@ -57,6 +61,20 @@ Crea una función que reciba una lista de números enteros y devuelva una nueva 
   
   ```kotlin
 
+fun main() {
+    val list = listOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+    println(oddNumbers(list))
+}
+
+fun oddNumbers(list: List<Int>): List<Int> {
+    val oddList = mutableListOf<Int>()
+    for (number in list) {
+        if (number % 2 != 0) {
+            oddList.add(number)
+        }
+    }
+    return oddList
+}
   ```
 </details>
 
@@ -70,6 +88,20 @@ Crea una función que reciba una lista de números enteros y un número entero n
   
   ```kotlin
  
+fun main() {
+    val list = listOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+    println(hasPairWithSum(list, 11))
+}
+
+fun hasPairWithSum(list: List<Int>, targetSum: Int): Boolean {
+    for (num in list) {
+        if (list.contains(targetSum - num)) {
+            return true
+        }
+    }
+    return false
+}
+
   ```
 </details>
 
@@ -82,7 +114,14 @@ Crea una función que reciba una lista de números enteros y devuelva un mensaje
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main() {
+    val list = listOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+    println(biggestNumber(list))
+}
+fun biggestNumber(list: List<Int>): Int? {
+    return list.maxOrNull()
+}
+
   ```
 </details>
 
@@ -95,7 +134,15 @@ Crea una función que reciba una lista de palabras y una palabra, y devuelva un 
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main() {
+    val words = listOf("apple", "banana", "orange")
+    val word = "apple"
+    println(containsWord(words, word))
+}
+
+fun containsWord(words: List<String>, word: String): String {
+    return if (words.contains(word)) "$word found()" else "$word not found()"
+}
   ```
 </details>
 
@@ -108,7 +155,14 @@ Crea una función que reciba una lista de palabras y devuelva una nueva lista co
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main() {
+    val words = listOf("apple", "banana", "orange")
+    println(upperCaseWords(words))
+}
+
+fun upperCaseWords(words: List<String>): Any {
+    return words.map { it.uppercase() }
+}
   ```
 </details>
 
@@ -121,6 +175,13 @@ Crea una función que reciba una lista de palabras y devuelva una nueva lista co
   <summary>Solucion</summary>
   
   ```kotlin
- 
+ fun main() {
+    val words = listOf("apple", "banana", "kiwi", "orange", "grape")
+    println(newList(words))
+}
+
+fun newList(words: List<String>): Any {
+    return words.filter { it[0] == it.last() }
+}
   ```
 </details>
