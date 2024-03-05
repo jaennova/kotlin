@@ -3,7 +3,7 @@
 ## Variables var
 
 ```kotlin
-var aleatorio = 5 // x es una variable mutable con un valor inicial de 5
+var x = 5 // x es una variable mutable con un valor inicial de 5
 
 x = 7 // se puede cambiar el valor de x
 ```
