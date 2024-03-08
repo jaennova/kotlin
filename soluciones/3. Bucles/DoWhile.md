@@ -8,7 +8,20 @@ Crea una función que pida al usuario ingresar una cadena de caracteres y valide
   <summary>Solucion</summary>
   
   ```kotlin
- 
+fun main() {
+    var cadena: String
+    do {
+        print("Ingrese una cadena de caracteres: ")
+        cadena = readln()
+    } while (!validateString(cadena))
+
+    println("La cadena '$cadena' es válida.")
+}
+
+val regex = "^(?=.*[a-zA-Z])(?=.*\\d).+$".toRegex()
+fun validateString(cadena: String): Boolean {
+    return regex.matches(cadena)
+}
   ```
 </details>
 
