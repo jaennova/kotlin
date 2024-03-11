@@ -38,4 +38,4 @@ for ((key, value) in map) {
 }
 ```
 
-En resumen, el bucle for en Kotlin es una herramienta muy versátil para iterar sobre diferentes tipos de colecciones y tener acceso tanto al elemento como al índice en cada iteración.
+El bucle for en Kotlin es una herramienta muy versátil para iterar sobre diferentes tipos de colecciones y tener acceso tanto al elemento como al índice en cada iteración.
