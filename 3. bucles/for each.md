@@ -38,4 +38,4 @@ numbers.forEachIndexed { index, number ->
     println("Element at $index is $number")
 }
 ```
-En resumen, el bucle for each en Kotlin es una forma sencilla de iterar a través de elementos en una colección de datos, utilizando el método "forEach" y una función lambda
+El bucle for each en Kotlin es una forma sencilla de iterar a través de elementos en una colección de datos, utilizando el método "forEach" y una función lambda
