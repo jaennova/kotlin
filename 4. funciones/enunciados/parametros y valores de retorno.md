@@ -2,35 +2,22 @@
 
 ## Enunciados
 
-1. Escribe una función en Kotlin que tome un número entero como parámetro y devuelva si es par o impar.
+1. Crea una función llamada `calcular_area_circulo` que tome un parámetro `radio` y devuelva el área del círculo calculada como π * radio^2.
 
-1. Escribe una función en Kotlin que tome una cadena como parámetro y devuelva la cantidad de vocales en ella.
+2. Define una función llamada `sumar_lista` que tome una lista de números como parámetro y devuelva la suma de todos los elementos de la lista.
 
-1. Escribe una función en Kotlin que tome una lista de números flotantes como parámetro y devuelva la suma de todos ellos.
+3. Escribe una función llamada `encontrar_maximo` que tome una lista de números como parámetro y devuelva el número máximo de la lista.
 
-1. Escribe una función en Kotlin que tome una lista de cadenas como parámetro y devuelva una lista con las cadenas ordenadas alfabéticamente.
+4. Desarrolla una función llamada `revertir_cadena` que tome una cadena de texto como parámetro y devuelva la cadena invertida.
 
-1. Escribe una función en Kotlin que tome un número entero y una lista de números enteros como parámetros y devuelva si el número entero se encuentra en la lista.
+5. Crea una función llamada `calcular_promedio` que tome una lista de números como parámetro y devuelva el promedio de esos números.
 
-1. Escribe una función en Kotlin que tome una cadena y un carácter como parámetros y devuelva la cantidad de veces que el carácter aparece en la cadena.
+6. Define una función llamada `es_palindromo` que tome una cadena de texto como parámetro y devuelva True si la cadena es un palíndromo y False en caso contrario.
 
-1. Escribe una función en Kotlin que tome una lista de números enteros como parámetro y devuelva el promedio de todos ellos.
+7. Escribe una función llamada `calcular_potencia` que tome dos números como parámetros, `base` y `exponente`, y devuelva el resultado de elevar la base al exponente.
 
-1. Escribe una función en Kotlin que tome una cadena como parámetro y devuelva si es un palíndromo.
+8. Desarrolla una función llamada `contar_vocales` que tome una cadena de texto como parámetro y devuelva el número total de vocales en la cadena.
 
-1. Escribe una función en Kotlin que tome una lista de números enteros y un número entero como parámetros y devuelva la cantidad de veces que el número entero se encuentra en la lista.
+9. Crea una función llamada `es_primo` que tome un número como parámetro y devuelva True si el número es primo y False en caso contrario.
 
-1. Escribe una función en Kotlin que tome dos números enteros como parámetros y devuelva el máximo común divisor de ambos.
-
-1. Escribe una función en Kotlin que tome una lista de cadenas como parámetro y devuelva una lista con las cadenas sin repetir.
-
-1. Escribe una función en Kotlin que tome una cadena como parámetro y devuelva una cadena con todas las palabras en orden inverso.
-
-1. Escribe una función en Kotlin que tome una lista de números enteros como parámetro y devuelva la cantidad de números pares en la lista.
-
-1. Escribe una función en Kotlin que tome una lista de cadenas como parámetro y devuelva una lista con las cadenas ordenadas por tamaño.
-
-1. Escribe una función en Kotlin que tome un número entero como parámetro y devuelva si es un número primo.
-
-1. Escribe una función en Kotlin que tome una lista de cadenas y una cadena como parámetros y devuelva una lista con todas las cadenas de la lista original que empiecen con la cadena proporcionada.
-1. 
+10. Define una función llamada `calcular_factorial` que tome un número como parámetro y devuelva su factorial.
