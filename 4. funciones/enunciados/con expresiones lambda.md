@@ -2,24 +2,22 @@
 
 ## Enunciados
 
-1. Crea una función que tome una lista de números enteros y una expresión lambda que tome un número entero y devuelva un booleano. La función debe devolver una nueva lista con los números que cumplan con la condición especificada en la expresión lambda.
+1. Crea una función llamada `filtrar_positivos` que reciba una lista de números y utilice una expresión lambda junto con la función `filter` para filtrar solo los números positivos.
 
-2. Crea una función que tome una lista de cadenas y una expresión lambda que tome una cadena y devuelva un booleano. La función debe devolver una nueva lista con las cadenas que cumplan con la condición especificada en la expresión lambda.
-3. Crea una función que tome una lista de números enteros y una expresión lambda que tome dos números enteros y devuelva un número entero. La función debe devolver el resultado de aplicar la expresión lambda a todos los elementos de la lista.
-4. Crea una función que tome una lista de cadenas y una expresión lambda que tome dos cadenas y devuelva una cadena. La función debe devolver el resultado de aplicar la expresión lambda a todos los elementos de la lista.
-5. Crea una función que tome una lista de números enteros y una expresión lambda que tome un número entero y devuelva un número entero. La función debe devolver una nueva lista con los resultados de aplicar la expresión lambda a cada elemento de la lista original.
-6. Crea una función que tome una lista de cadenas y una expresión lambda que tome una cadena y devuelva una cadena. La función debe devolver una nueva lista con los resultados de aplicar la expresión lambda a cada elemento de la lista original.
-7. Crea una función que tome una lista de números enteros y una expresión lambda que tome un número entero y devuelva un booleano. La función debe devolver el primer número que cumpla con la condición especificada en la expresión lambda.
-8. Crea una función que tome una lista de cadenas y una expresión lambda que tome una cadena y devuelva un booleano. La función debe devolver la primer cadena que cumpla con la condición especificada en la expresión lambda.
-9. Crea una función que tome una lista de números enteros y una expresión lambda que tome un número entero y devuelva un número entero. La función debe devolver el mayor resultado obtenido al aplicar la expresión lambda a cada elemento de la lista.
-10. Crea una función que tome una lista de cadenas y una expresión lambda que tome una cadena y devuelva una cadena. La función debe devolver la cadena más larga obtenida al aplicar la expresión lambda a cada elemento de la lista.
-11. Crea una función que tome una lista de números enteros y una expresión lambda que tome un número entero y devuelva un booleano. La función debe devolver verdadero si al menos uno de los números de la lista cumple con la condición especificada en la expresión lambda.
-12. Crea una función que tome una lista de cadenas y una expresión lambda que tome una cadena y devuelva un booleano. La función debe devolver verdadero si al menos una de las cadenas de la lista cumple con la condición especificada en la expresión lambda.
-13. Crea una función que tome una lista de números enteros y una expresión lambda que tome un número entero y devuelva un número entero. La función debe devolver el menor resultado obtenido al aplicar la expresión lambda a cada elemento de la lista.
-14. Crea una función que tome una lista de cadenas y una expresión lambda que tome una cadena y devuelva una cadena. La función debe devolver la cadena más corta obtenida al aplicar la expresión lambda a cada elemento de la lista.
-15. Crea una función que tome una lista de números enteros y una expresión lambda que tome dos números enteros y devuelva un número entero. La función debe devolver el resultado de aplicar la expresión lambda a cada par de elementos consecutivos de la lista.
-16. Crea una función que tome una lista de cadenas y una expresión lambda que tome dos cadenas y devuelva una cadena. La función debe devolver el resultado de aplicar la expresión lambda a cada par de elementos consecutivos de la lista.
-17. Crea una función que tome una lista de números enteros y una expresión lambda que tome un número entero y devuelva un booleano. La función debe devolver verdadero si todos los números de la lista cumplen con la condición especificada en la expresión lambda.
-18. Crea una función que tome una lista de cadenas y una expresión lambda que tome una cadena y devuelva un booleano. La función debe devolver verdadero si todas las cadenas de la lista cumplen con la condición especificada en la expresión lambda.
-19. Crea una función que tome una lista de números enteros y una expresión lambda que tome dos números enteros y devuelva un número entero. La función debe devolver el resultado de aplicar la expresión lambda a cada par de elementos consecutivos de la lista, empezando por el último elemento y terminando por el primero.
-20. Crea una función que tome una lista de cadenas y una expresión lambda que tome dos cadenas y devuelva una cadena. La función debe devolver el resultado de aplicar la expresión lambda a cada par de elementos consecutivos de la lista, empezando por el último elemento y terminando por el primero.
+2. Define una función llamada `doble` que tome una lista de números y utilice una expresión lambda junto con la función `map` para devolver una lista con el doble de cada número.
+
+3. Escribe una función llamada `invertir_cadena` que tome una cadena de texto y utilice una expresión lambda junto con el método `join` para devolver la cadena invertida.
+
+4. Desarrolla una función llamada `filtrar_impares` que tome una lista de números y utilice una expresión lambda junto con la función `filter` para filtrar solo los números impares.
+
+5. Crea una función llamada `mayor_a_100` que tome una lista de números y utilice una expresión lambda junto con la función `filter` para devolver solo los números mayores que 100.
+
+6. Define una función llamada `sumar_elementos` que tome una lista de números y utilice una expresión lambda junto con la función `reduce` para devolver la suma de todos los elementos.
+
+7. Escribe una función llamada `contar_vocales` que tome una cadena de texto y utilice una expresión lambda junto con la función `filter` para contar el número de vocales en la cadena.
+
+8. Desarrolla una función llamada `eliminar_duplicados` que tome una lista y utilice una expresión lambda junto con la función `set` para eliminar los elementos duplicados y devolver una lista sin duplicados.
+
+9. Crea una función llamada `encontrar_menor` que tome una lista de números y utilice una expresión lambda junto con la función `min` para encontrar el número menor en la lista.
+
+10. Define una función llamada `calcular_promedio` que tome una lista de números y utilice una expresión lambda junto con la función `sum` y `len` para calcular el promedio de los elementos.
