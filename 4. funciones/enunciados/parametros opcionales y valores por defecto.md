@@ -1,25 +1,22 @@
 # Funciones con parámetros opcionales y valores por defecto
 
 ## Enunciados
+1. Crea una función llamada `saludar` que tome un parámetro obligatorio `nombre` y un parámetro opcional `saludo`. Si el parámetro `saludo` no se proporciona, la función debería imprimir "Hola, {nombre}!". Si se proporciona, la función debería imprimir el saludo junto con el nombre.
 
-1. Crea una función que calcule el promedio de una lista de números enteros. Utiliza un parámetro opcional para la lista, con un valor por defecto de [1, 2, 3, 4, 5].
+2. Define una función llamada `calcular_area_rectangulo` que tome dos parámetros obligatorios `base` y `altura`, y un parámetro opcional `unidades` con un valor por defecto de "metros cuadrados". La función debe calcular el área del rectángulo utilizando los parámetros proporcionados y devolver una cadena que indique el área junto con las unidades.
 
-2. Crea una función que tome una cadena y un carácter y cuente cuántas veces aparece ese carácter en la cadena. Utiliza un parámetro opcional para el carácter, con un valor por defecto de 'a'.
-3. Crea una función que tome una lista de números enteros y devuelva el número mayor de la lista. Utiliza un parámetro opcional para la lista, con un valor por defecto de [1, 2, 3, 4, 5].
-4. Crea una función que tome una lista de cadenas y devuelva la cadena más larga de la lista. Utiliza un parámetro opcional para la lista, con un valor por defecto de ['a', 'ab', 'abc', 'abcd', 'abcde'].
-5. Crea una función que tome una lista de números enteros y devuelva la suma de todos los elementos pares de la lista. Utiliza un parámetro opcional para la lista, con un valor por defecto de [1, 2, 3, 4, 5].
-6. Crea una función que tome una lista de números enteros y un número entero y devuelva verdadero si el número entero es mayor que todos los elementos de la lista. Utiliza un parámetro opcional para la lista, con un valor por defecto de [1, 2, 3, 4, 5].
-7. Crea una función que tome una lista de cadenas y una cadena y devuelva verdadero si la cadena está contenida en alguno de los elementos de la lista. Utiliza un parámetro opcional para la lista, con un valor por defecto de ['a', 'ab', 'abc', 'abcd', 'abcde'].
-8. Crea una función que tome una lista de números enteros y devuelva una nueva lista con todos los elementos duplicados eliminados. Utiliza un parámetro opcional para la lista, con un valor por defecto de [1, 2, 3, 2, 1, 4, 5, 4].
-9. Crea una función que tome una lista de cadenas y devuelva una nueva lista con todas las cadenas que comiencen con la letra 'a'. Utiliza un parámetro opcional para la lista, con un valor por defecto de ['a', 'ab', 'abc', 'abcd', 'abcde'].
-10. Crea una función que tome una lista de números enteros y devuelva una nueva lista con todos los elementos ordenados de mayor a menor. Utiliza un parámetro opcional para la lista, con un valor por defecto de [5, 3, 2, 1, 4].
-11. Crea una función que tome una lista de cadenas y devuelva una nueva lista con todas las cadenas ordenadas de mayor a menor según su longitud. Utiliza un parámetro opcional para la lista, con un valor por defecto de ['abcde', 'abcd', 'abc', 'ab', 'a'].
-12. Crea una función que tome una lista de números enteros y devuelva verdadero si todos los elementos de la lista son pares. Utiliza un parámetro opcional para la lista, con un valor por defecto de [2, 4, 6, 8, 10].
-13. Crea una función que tome una lista de cadenas y devuelva verdadero si todas las cadenas tienen más de tres caracteres. Utiliza un parámetro opcional para la lista, con un valor por defecto de ['abcd', 'abcde', 'abcdef', 'abcdefg', 'abcdefgh'].
-14. Crea una función que tome una lista de números enteros y devuelva el primer elemento de la lista que sea mayor que 10. Utiliza un parámetro opcional para la lista, con un valor por defecto de [1, 2, 3, 11, 12, 13].
-15. Crea una función que tome una lista de cadenas y devuelva la primera cadena de la lista que tenga más de cinco caracteres. Utiliza un parámetro opcional para la lista, con un valor por defecto de ['a', 'ab', 'abc', 'abcd', 'abcde', 'abcdef'].
-16. Crea una función que tome una lista de números enteros y devuelva verdadero si al menos un elemento de la lista es mayor que 100. Utiliza un parámetro opcional para la lista, con un valor por defecto de [1, 2, 3, 101, 102, 103].
-17. Crea una función que tome una lista de cadenas y devuelva verdadero si al menos una cadena de la lista tiene más de diez caracteres. Utiliza un parámetro opcional para la lista, con un valor por defecto de ['a', 'ab', 'abc', 'abcd', 'abcde', 'abcdefghijk'].
-18. Crea una función que tome una lista de números enteros y devuelva el último elemento de la lista que sea menor que 50. Utiliza un parámetro opcional para la lista, con un valor por defecto de [100, 99, 98, 50, 49, 48].
-19. Crea una función que tome una lista de cadenas y devuelva la última cadena de la lista que tenga menos de tres caracteres. Utiliza un parámetro opcional para la lista, con un valor por defecto de ['abc', 'abcd', 'abcde', 'a', 'ab', 'abcdef'].
-20. Crea una función que tome una lista de números enteros y un número entero y devuelva verdadero si el número entero se encuentra en la lista. Utiliza un parámetro opcional para la lista, con un valor por defecto de [1, 2, 3, 4, 5].
+3. Escribe una función llamada `crear_persona` que tome dos parámetros obligatorios `nombre` y `edad`, y dos parámetros opcionales `sexo` y `ocupacion` con valores por defecto de "No especificado" y "Desocupado" respectivamente. La función debe devolver un diccionario que represente a una persona con los datos proporcionados.
+
+4. Desarrolla una función llamada `imprimir_tabla_multiplicar` que tome un parámetro obligatorio `numero` y un parámetro opcional `limite` con un valor por defecto de 10. La función debe imprimir la tabla de multiplicar del número proporcionado hasta el límite especificado.
+
+5. Crea una función llamada `comprar_producto` que tome un parámetro obligatorio `producto`, un parámetro opcional `cantidad` con un valor por defecto de 1, y un parámetro opcional `precio_unitario` con un valor por defecto de 0. La función debe calcular el precio total multiplicando la cantidad por el precio unitario y devolver el resultado.
+
+6. Define una función llamada `imprimir_frase` que tome un parámetro obligatorio `frase` y dos parámetros opcionales `repeticiones` y `puntuacion` con valores por defecto de 1 y "." respectivamente. La función debe imprimir la frase el número de veces especificado y añadir la puntuación al final de cada repetición.
+
+7. Escribe una función llamada `calcular_edad` que tome un parámetro obligatorio `anio_nacimiento` y un parámetro opcional `anio_actual` con un valor por defecto de 2022. La función debe calcular la edad de una persona basada en los años proporcionados y devolver el resultado.
+
+8. Desarrolla una función llamada `sumar_elementos` que tome una lista como parámetro obligatorio y un parámetro opcional `inicio` con un valor por defecto de 0. La función debe sumar todos los elementos de la lista comenzando desde el índice especificado por `inicio`.
+
+9. Crea una función llamada `construir_casa` que tome un parámetro obligatorio `material` y dos parámetros opcionales `habitaciones` y `patio` con valores por defecto de 2 y True respectivamente. La función debe devolver una cadena que describa la construcción de una casa con los parámetros proporcionados.
+
+10. Define una función llamada `calcular_interes` que tome un parámetro obligatorio `capital` y dos parámetros opcionales `tasa` y `tiempo` con valores por defecto de 0.05 y 1 respectivamente. La función debe calcular el interés simple utilizando la fórmula I = P * r * t y devolver el resultado.
