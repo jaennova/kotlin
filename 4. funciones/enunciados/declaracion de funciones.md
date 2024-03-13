@@ -3,24 +3,22 @@
 [Aqui](https://www.develou.com/funciones-en-kotlin/) hay informacion sobre funciones en Kotlin que te puede servir como complemento.
 
 ## Enunciados
+1. Define una función llamada `suma_numeros_positivos` que reciba una lista de números y devuelva la suma de los números positivos. Utiliza "continue" dentro de la función para ignorar los números negativos durante la suma.
+   
+2. Crea una función llamada `buscar_elemento` que reciba una lista y un elemento a buscar. Esta función debería devolver True si el elemento está en la lista y False si no lo está. Utiliza "break" para detener la búsqueda una vez que se encuentre el elemento.
 
-1. Escribe una función que tome un entero y devuelva el cuadrado del entero.
+3. Escribe una función llamada `eliminar_vocales` que tome una cadena de texto como argumento y devuelva la misma cadena pero sin ninguna vocal. Utiliza "continue" dentro de la función para evitar agregar las vocales a la cadena resultante.
 
+4. Define una función llamada `imprimir_numeros_impares` que imprima todos los números impares hasta un número dado. Utiliza "continue" dentro de la función para omitir los números pares durante la impresión.
 
-1. Escribe una función que tome una cadena de caracteres y devuelva la cadena de caracteres en minúsculas.
+5. Crea una función llamada `filtrar_nombres` que tome una lista de nombres y un número mínimo de letras como argumentos y devuelva una lista con los nombres que tengan más letras que el número dado. Utiliza "continue" dentro de la función para evitar agregar los nombres que no cumplan con el requisito.
 
-1. Escribe una función que tome dos números y devuelva el producto de ambos.
+6. Desarrolla una función llamada `imprimir_secuencia` que imprima una secuencia de números del 1 al 20, pero solo los números impares. Utiliza "continue" dentro de la función para omitir los números pares durante la impresión.
 
-1. Escribe una función que tome una lista de enteros y devuelva el promedio de todos los elementos de la lista.
+7. Define una función llamada `sumar_pares` que tome una lista de números y devuelva la suma de todos los números pares en la lista. Utiliza "continue" dentro de la función para ignorar los números impares durante la suma.
 
-1. Escribe una función que tome dos cadenas de caracteres y devuelva una nueva cadena que sea la concatenación de ambas, separadas por un espacio en blanco.
+8. Crea una función llamada `encontrar_mayor` que tome una lista de números y devuelva el primer número mayor que 100 en la lista. Utiliza "break" dentro de la función para detener la búsqueda una vez que se encuentre dicho número.
 
-1. Escribe una función que tome dos números y devuelva el máximo de ambos.
+9. Escribe una función llamada `calcular_primos` que devuelva una lista con los primeros 50 números primos. Utiliza "break" dentro de la función para salir del bucle una vez que se hayan encontrado los 50 números primos.
 
-1. Escribe una función que tome una lista de cadenas de caracteres y devuelva una nueva lista con todas las cadenas de caracteres en mayúsculas.
-
-1. Escribe una función que tome una cadena de caracteres y devuelva la cantidad de veces que se repite una determinada letra en la cadena.
-
-1. Escribe una función que tome una lista de números y devuelva el número más grande de la lista.
-
-1. Escribe una función que tome una cadena de caracteres y un número, y devuelva una nueva cadena que sea la concatenación de la cadena original repetida tantas veces como indique el número.
+10. Define una función llamada `calcular_factorial` que tome un número como argumento y devuelva su factorial. Utiliza "continue" dentro de la función para evitar multiplicar por 0 y "break" para salir del bucle una vez que se haya calculado el factorial.
