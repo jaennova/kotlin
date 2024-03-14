@@ -77,8 +77,6 @@ Algunos consejos y recomendaciones:
 * Bucles "for each": [[uso]][u foreach] [[enunciados]][e foreach] [[mis soluciones]][msforeacg]
 * Bucle "while": [[uso]][u while] [[enunciados]][e while] [mis soluciones](/soluciones/3.%20Bucles/while.md)
 * Bucle "do-while": [[uso]][u do wh] [[enunciados]][e do wh]
-<!-- * Uso de la palabra clave "break" y "continue"para romper y continuar bucles: [[uso]][u break] [[enunciados]][e break]
-* Bucles infinitos: [[uso]][u infinitos] [[enunciados]][e infinitos] -->
 
 
 ### 4. Funciones
@@ -86,14 +84,6 @@ Algunos consejos y recomendaciones:
 * Declaración de funciones: [[uso]][u declar] [[enunciados]][e declar]
 * Parámetros y valores de retorno: [[uso]][u param] [[enunciados]][e param]
 * Funciones con nombre: [[uso]][u nombre] [[enunciados]][e nombre]
-<!-- * Funciones con expresiones lambda: [[uso]][u lambda] [[enunciados]][e lambda]
-* Funciones con parámetros opcionales y valores por defecto: [[uso]][u defecto] [[enunciados]][e defecto]
-* Funciones anidadas: [[uso]][u anidadas] [[enunciados]][e anidadas]
-* Funciones con ámbito de bloque: [[uso]][u am bloque] [[enunciados]][u am bloque]
-* Funciones inlining: [[uso]][u inlining] [[enunciados]][e inlining]
-* Funciones con parámetros variables: [[uso]][u param var] [[enunciados]][e parm var]
-* Funciones con parámetros de tipo clase genérica: [[uso]][u genericas] [[enunciados]][e genericas]
-* Funciones de extensión: [[uso]][u extension] [[enunciados]][e extension] -->
 
 
 [u declaracion de variables]: /1.%20declaracion%20de%20variables/variables%20var%20y%20val.md
