@@ -2,52 +2,18 @@
 
 ![banner](/bannerr.png)
 
-## Introducción
-
-¡Bienvenido a mi repositorio de aprendizaje práctico de Kotlin! Mi objetivo con este repositorio es proporcionar una variedad de ejercicios prácticos y recursos teóricos para ayudarte a aprender Kotlin. Este lenguaje de programación es popular para desarrollo de aplicaciones para Android, y en este repositorio encontrarás ejemplos de código, tutoriales paso a paso y enunciados para practicar. Además, completaremos con la teoría necesaria para entender los conceptos detrás de cada tema. 
-
   ----
 
 ## Indice
 
 - [Aprende Kotlin con ejercicios](#aprende-kotlin-con-ejercicios)
-  - [Introducción](#introducción)
   - [Indice](#indice)
-  - [Entorno de desarrollo](#entorno-de-desarrollo)
   - [Tabla de contenido](#tabla-de-contenido)
     - [1. Declaración de variables](#1-declaración-de-variables)
     - [2. Estructuras condicionales](#2-estructuras-condicionales)
     - [3. Bucles](#3-bucles)
     - [4. Funciones](#4-funciones)
-
-## Entorno de desarrollo
-
-Existen varios entornos de desarrollo (IDE, por sus siglas en inglés) disponibles para desarrollar en Kotlin. Algunos de los más populares incluyen:
-
-IntelliJ IDEA: Este es el IDE oficial de Kotlin y es desarrollado por JetBrains, la compañía que creó el lenguaje. IntelliJ IDEA es considerado como uno de los mejores IDEs para Kotlin debido a la integración nativa del lenguaje, las herramientas de depuración y la amplia variedad de herramientas de desarrollo disponibles.
-
-Eclipse: Eclipse es uno de los IDEs de código abierto más populares en el mundo de la programación. Existe un plugin de Kotlin para Eclipse llamado "Kotlin Eclipse" que proporciona soporte para el lenguaje.
-
-Android Studio: Android Studio es el IDE oficial para desarrollar aplicaciones Android y es desarrollado por Google. Viene con una integración nativa de Kotlin, por lo que es una buena opción para aquellos que quieran desarrollar aplicaciones Android.
-
-Visual Studio Code: Visual Studio Code es un IDE multiplataforma y es una excelente opción para desarrollar proyectos de Kotlin en diferentes plataformas, especialmente si prefieres un ambiente de desarrollo más ligero.
-
-Cada uno tiene sus propias características y herramientas de desarrollo, por lo que puede ser útil experimentar con diferentes opciones para ver cuál se ajusta mejor a tus necesidades y preferencias. Sin embargo, es importante tener en cuenta que cualquier IDE que elijas deberá tener soporte para Kotlin.
-
-Algunos consejos y recomendaciones:
-
-  * IntelliJ IDEA es la mejor opción para desarrollar en Kotlin ya que es el IDE oficial para el lenguaje y proporciona una experiencia de desarrollo muy rica.
-
-  * Si estás desarrollando aplicaciones Android, Android Studio es una excelente opción ya que viene con integración nativa de Kotlin y las herramientas necesarias para desarrollar aplicaciones móviles.
-
-  * Si estas buscando un ambiente de desarrollo ligero y multiplataforma visual Studio code es una buena opción.
-
-  * Si estás acostumbrado a Eclipse, puedes usar el plugin Kotlin Eclipse para seguir trabajando en el mismo entorno.
-
-  * Si estás empezando, puede ser una buena idea probar varios IDEs para encontrar el que más te guste y te resulte más cómodo de utilizar.
-
-    > Tambien existe un editor de codigo online para Kotlin, puedes ingresar 
-    [aquí](https://play.kotlinlang.org/) y ejecutar codigo Kotlin.
+   
 
 ## Tabla de contenido
 
