@@ -152,8 +152,15 @@ Adicionalmente, si tienes soluciones para los enunciados que se presentan o quie
 
    ```
    git add .
-   git commit -m "Agrega solución al ejercicio 1"
+   git commit -m "solucion tuuser 1&1"
    ```
+
+donde `1&1` significa que agregaste la solucion al enunciado 1 del tema 1 [#1-declaración-de-variables], en el caso de que quieras agregar la solucion al enunciado 2 del tema 3, [estructuras condicionales](3-estructuras-condicionales), seria de la siguiente manera:
+
+```sh
+git add .
+git commit -m "solucion tuuser 3&2"
+```
 
 6. **Haz Push de tus Cambios:** Sube tus cambios a tu repositorio en GitHub.
 
@@ -161,6 +168,6 @@ Adicionalmente, si tienes soluciones para los enunciados que se presentan o quie
    git push origin tu-rama
    ```
 
-7. **Envía un Pull Request:** Dirígete a la página de tu fork en GitHub y haz clic en el botón "Pull Request". Describe tus cambios y envía el Pull Request para que podamos revisarlo.
+7. **Envía un Pull Request:** Dirígete a la página de tu fork en GitHub y haz clic en el botón "[Pull Request](https://github.com/jaennova/kotlin/pulls)". Describe tus cambios y envía el Pull Request para que podamos revisarlo.
 
 ¡Y eso es todo! Espero con interés ver tus contribuciones al repositorio.
