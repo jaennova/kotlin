@@ -8,7 +8,7 @@ Declara una variable que almacene el número de habitantes de una ciudad.
   <summary>Solucion</summary>
   
   ```kotlin
-  var numeroHabitantes:Double = 341,893
+  var numeroHabitantes:Double = 341,890
   ```
 </details>
 
