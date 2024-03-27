@@ -29,14 +29,14 @@
 
 * Declaración de variables con "var" y "val":  [[uso]](/1_declaracion_variables/1_declaracion_variables_val_var.md)
 [[enunciados]](/1_declaracion_variables/1_enunciados/1_declaracion_variables_val_var.md) [[mis soluciones]](/soluciones/1_declaracion_variables/1_declaracion_variables_val_var.md)
-* Asignación de valores a variables en Kotlin: [[uso]](/1_declaracion_variables/2_asignacion_variables.md) [[enunciados]](/1_declaracion_variables/1_enunciados/1_declaracion_variables_val_var.md) [[mis soluciones]](/soluciones/1_declaracion_variables/2_asignacion_variables.md)
-* Inicialización de variables en Kotlin: [[uso]](/1_declaracion_variables/3_inicializacion_variables.md) [[enunciados]](/1_declaracion_variables/1_enunciados/3_inicializacion_variables.md) [[mis soluciones]](/soluciones/1_declaracion_variables/3_inicializacion_variables.md)
-* Tipos de datos en Kotlin (enteros, flotantes, booleanos, cadenas, etc.)[[uso]](/1_declaracion_variables/4_tipos_de_datos.md) [[enunciados]](/1_declaracion_variables/1_enunciados/4_tipos_de_datos.md) [[mis soluciones]](/soluciones/1_declaracion_variables/4_tipos_de_datos.md)
-* Conversión de tipos de datos en Kotlin (toInt(), toDouble(), etc.): [[uso]](/1_declaracion_variables/5_conversion_tipos.md) [[enunciados]](/1_declaracion_variables/1_enunciados/5_conversion_tipos.md) [[mis soluciones]](/soluciones/1_declaracion_variables/5_conversion_tipos.md)
-* Operadores en Kotlin: [[uso]](/1_declaracion_variables/6_operadores.md) [[enunciados]](/1_declaracion_variables/1_enunciados/6_operadores.md) [[mis soluciones]](/soluciones/1_declaracion_variables/6_operadores.md)
-* Concatenación de cadenas en Kotlin (con "+" y con "$") [[uso]](/1_declaracion_variables/7_concatenacion.md) [[enunciados]](/1_declaracion_variables/1_enunciados/7_concatenacion.md) [[mis soluciones]](/soluciones/1_declaracion_variables/7_concatenacion.md)
-* Interpolación de cadenas en Kotlin (con "\${ }" y con "$"): [[uso]](/1_declaracion_variables/8_interpolacion.md) [[enunciados]](/1_declaracion_variables/1_enunciados/8_interpolacion.md) [[mis soluciones]](/soluciones/1_declaracion_variables/8_interpolacion.md)
-* Null Safety en Kotlin: [[uso]](/1_declaracion_variables/9_null_safety.md) [[enunciados]](/1_declaracion_variables/1_enunciados/9_null_safety.md) [[mis soluciones]](/soluciones/1_declaracion_variables/9_null_safety.md)
+* Asignación de valores a variables: [[uso]](/1_declaracion_variables/2_asignacion_variables.md) [[enunciados]](/1_declaracion_variables/1_enunciados/1_declaracion_variables_val_var.md) [[mis soluciones]](/soluciones/1_declaracion_variables/2_asignacion_variables.md)
+* Inicialización de variables: [[uso]](/1_declaracion_variables/3_inicializacion_variables.md) [[enunciados]](/1_declaracion_variables/1_enunciados/3_inicializacion_variables.md) [[mis soluciones]](/soluciones/1_declaracion_variables/3_inicializacion_variables.md)
+* Tipos de datos (enteros, flotantes, booleanos, cadenas, etc.)[[uso]](/1_declaracion_variables/4_tipos_de_datos.md) [[enunciados]](/1_declaracion_variables/1_enunciados/4_tipos_de_datos.md) [[mis soluciones]](/soluciones/1_declaracion_variables/4_tipos_de_datos.md)
+* Conversión de tipos de datos (toInt(), toDouble(), etc.): [[uso]](/1_declaracion_variables/5_conversion_tipos.md) [[enunciados]](/1_declaracion_variables/1_enunciados/5_conversion_tipos.md) [[mis soluciones]](/soluciones/1_declaracion_variables/5_conversion_tipos.md)
+* Operadores: [[uso]](/1_declaracion_variables/6_operadores.md) [[enunciados]](/1_declaracion_variables/1_enunciados/6_operadores.md) [[mis soluciones]](/soluciones/1_declaracion_variables/6_operadores.md)
+* Concatenación de cadenas (con "+" y con "$") [[uso]](/1_declaracion_variables/7_concatenacion.md) [[enunciados]](/1_declaracion_variables/1_enunciados/7_concatenacion.md) [[mis soluciones]](/soluciones/1_declaracion_variables/7_concatenacion.md)
+* Interpolación de cadenas (con "\${ }" y con "$"): [[uso]](/1_declaracion_variables/8_interpolacion.md) [[enunciados]](/1_declaracion_variables/1_enunciados/8_interpolacion.md) [[mis soluciones]](/soluciones/1_declaracion_variables/8_interpolacion.md)
+* Null Safety: [[uso]](/1_declaracion_variables/9_null_safety.md) [[enunciados]](/1_declaracion_variables/1_enunciados/9_null_safety.md) [[mis soluciones]](/soluciones/1_declaracion_variables/9_null_safety.md)
 * Declaración de  variables sin tipo (Any, Any?, Unit): [[uso]](/1_declaracion_variables/10_any.md) [[enunciados]](/1_declaracion_variables/1_enunciados/10_any.md) [[mis soluciones]](/soluciones/1_declaracion_variables/10_any.md)
 
 ### 2. Funciones
@@ -123,7 +123,6 @@ Usuarios en GitHub que crean y/o colaboran en proyectos usando Kotlin
 - [Discord DevKiper](https://discord.com/channels/952285508912943135/986469221825396747)
 - [Discord Programadores y estudiantes](https://discord.com/channels/768278151435386900/1122390294973915176)
 - [Android Dev](https://discord.com/channels/178391822186315777/502383800668389387)
-- 
 
 
 ## Colabora
@@ -136,13 +135,13 @@ Adicionalmente, si tienes soluciones para los enunciados que se presentan o quie
 
 2. **Clona el Repositorio:** Clona tu fork del repositorio a tu máquina local. Utiliza el siguiente comando en tu terminal:
 
-   ```
+   ```sh
    git clone https://github.com/jaennova/kotlin.git
    ```
 
 3. **Crea una Rama:** Crea una rama para trabajar en tus cambios. Es una buena práctica nombrar la rama de manera descriptiva, como "solucion-ejercicios-user" o "nuevo-enunciado".
 
-   ```
+   ```sh
    git checkout -b tu-rama
    ```
 
@@ -150,24 +149,24 @@ Adicionalmente, si tienes soluciones para los enunciados que se presentan o quie
 
 5. **Haz Commit de tus Cambios:** Una vez que hayas realizado tus cambios, haz commit de ellos con un mensaje descriptivo.
 
-   ```
+   ```sh
    git add .
    git commit -m "solucion tuuser 1&1"
    ```
 
-donde `1&1` significa que agregaste la solucion al enunciado 1 del tema 1 [#1-declaración-de-variables], en el caso de que quieras agregar la solucion al enunciado 2 del tema 3, [estructuras condicionales](3-estructuras-condicionales), seria de la siguiente manera:
+donde `1&1` significa que agregaste la solucion al enunciado 1 del tema 1 [declaracion de variables](#1-declaración-de-variables), en el caso de que quieras agregar la solucion al enunciado 2 del tema 3, [estructuras condicionales](#3-estructuras-condicionales), seria de la siguiente manera:
 
 ```sh
 git add .
 git commit -m "solucion tuuser 3&2"
 ```
 
-6. **Haz Push de tus Cambios:** Sube tus cambios a tu repositorio en GitHub.
+1. **Haz Push de tus Cambios:** Sube tus cambios a tu repositorio en GitHub.
 
-   ```
+   ```sh
    git push origin tu-rama
    ```
 
-7. **Envía un Pull Request:** Dirígete a la página de tu fork en GitHub y haz clic en el botón "[Pull Request](https://github.com/jaennova/kotlin/pulls)". Describe tus cambios y envía el Pull Request para que podamos revisarlo.
+2. **Envía un Pull Request:** Dirígete a la página de tu fork en GitHub y haz clic en el botón "[Pull Request](https://github.com/jaennova/kotlin/pulls)". Describe tus cambios y envía el Pull Request para que podamos revisarlo.
 
 ¡Y eso es todo! Espero con interés ver tus contribuciones al repositorio.
