@@ -1,6 +1,6 @@
 # Aprende Kotlin con ejercicios
 
-![banner](/bannerr.png)
+![banner](/banner.png)
 
   ----
 
@@ -10,9 +10,9 @@
   - [Indice](#indice)
   - [Tabla de contenido](#tabla-de-contenido)
     - [1. Declaración de variables](#1-declaración-de-variables)
-    - [2. Estructuras condicionales](#2-estructuras-condicionales)
-    - [3. Bucles](#3-bucles)
-    - [4. Funciones](#4-funciones)
+    - [2. Funciones](#2-funciones)
+    - [3. Estructuras condicionales](#3-estructuras-condicionales)
+    - [4. Bucles](#4-bucles)
    
 
 ## Tabla de contenido
@@ -20,189 +20,64 @@
 ### 1. Declaración de variables
 
 
-* Declaración de variables con "var" y "val":  [[uso]][u declaracion de variables] 
-[[enunciados]][e declaracion de variables] [[mis soluciones]][m declaracion de variables]
-* Asignación de valores a variables en Kotlin: [[uso]][u asignacion] [[enunciados]][e asignacion] [[mis soluciones]][m declaracion]
-* Inicialización de variables en Kotlin: [[uso]][u inicializacion] [[enunciados]][e inicializacion] [[mis soluciones]][ms inicializacion]
-* Tipos de datos en Kotlin (enteros, flotantes, booleanos, cadenas, etc.)[[uso]][u tiposDatos] [[enunciados]][e tiposDatos] [[mis soluciones]][ms tiposdedatos]
-* Conversión de tipos de datos en Kotlin (toInt(), toDouble(), etc.): [[uso]][u conversion] [[enunciados]][e conversion] [[mis soluciones]](/soluciones/1.%20declaracion%20de%20variables/conversion.md)
-* Operadores en Kotlin: [[uso]][u operadores] [[enunciados]][e operadores] [[mis soluciones]][ms operadores]
-* Concatenación de cadenas en Kotlin (con "+" y con "$") [[uso]][u concatenacion] [[enunciados]][e concatenacion] [[mis soluciones]](/soluciones/1.%20declaracion%20de%20variables/concatenacion%20de%20cadenas.md)
-* Interpolación de cadenas en Kotlin (con "\${ }" y con "$"): [[uso]][u interpolacion] [[enunciados]][e interpolacion] [[mis soluciones]](/soluciones/1.%20declaracion%20de%20variables/interpolacion%20de%20cadenas.md)
-* Null Safety en Kotlin: [[uso]][u nullSafety] [[enunciados]][e nullSafety] [[mis soluciones]](/soluciones/1.%20declaracion%20de%20variables/null%20safety.md)
-* Declaración de  variables sin tipo (Any, Any?, Unit): [[uso]][u sinTipo] [[enunciados]][e sinTipo] [[mis soluciones]](/soluciones/1.%20declaracion%20de%20variables/variables%20sin%20tipo.md)
+* Declaración de variables con "var" y "val":  [[uso]](/1_declaracion_variables/1_declaracion_variables_val_var.md)
+[[enunciados]](/1_declaracion_variables/1_enunciados/1_declaracion_variables_val_var.md) [[mis soluciones]](/soluciones/1_declaracion_variables/1_declaracion_variables_val_var.md)
 
-### 2. Estructuras condicionales
 
-* Sentencia "if": [[uso]][u if] [[enunciados]][e if] [[mis soluciones]][ms if]
-* Sentencia "when": [[uso]][u when] [[enunciados]][e when] [[mis soluciones]][ms when]
+* Asignación de valores a variables en Kotlin: [[uso]](/1_declaracion_variables/2_asignacion_variables.md) [[enunciados]](/1_declaracion_variables/1_enunciados/1_declaracion_variables_val_var.md) [[mis soluciones]](/soluciones/1_declaracion_variables/2_asignacion_variables.md)
 
-### 3. Bucles
 
-* Bucles "for": [[uso]][u for] [[enunciados]][e for] [[mis soluciones]][ms for]
-* Bucles "for each": [[uso]][u foreach] [[enunciados]][e foreach] [[mis soluciones]][msforeacg]
-* Bucle "while": [[uso]][u while] [[enunciados]][e while] [mis soluciones](/soluciones/3.%20Bucles/while.md)
-* Bucle "do-while": [[uso]][u do wh] [[enunciados]][e do wh]
+* Inicialización de variables en Kotlin: [[uso]](/1_declaracion_variables/3_inicializacion_variables.md) [[enunciados]](/1_declaracion_variables/1_enunciados/3_inicializacion_variables.md) [[mis soluciones]](/soluciones/1_declaracion_variables/3_inicializacion_variables.md)
 
 
-### 4. Funciones
+* Tipos de datos en Kotlin (enteros, flotantes, booleanos, cadenas, etc.)[[uso]](/1_declaracion_variables/4_tipos_de_datos.md) [[enunciados]](/1_declaracion_variables/1_enunciados/4_tipos_de_datos.md) [[mis soluciones]](/soluciones/1_declaracion_variables/4_tipos_de_datos.md)
 
-* Declaración de funciones: [[uso]][u declar] [[enunciados]][e declar]
-* Parámetros y valores de retorno: [[uso]][u param] [[enunciados]][e param]
-* Funciones con nombre: [[uso]][u nombre] [[enunciados]][e nombre]
 
+* Conversión de tipos de datos en Kotlin (toInt(), toDouble(), etc.): [[uso]](/1_declaracion_variables/5_conversion_tipos.md) [[enunciados]](/1_declaracion_variables/1_enunciados/5_conversion_tipos.md) [[mis soluciones]](/soluciones/1_declaracion_variables/5_conversion_tipos.md)
 
-[u declaracion de variables]: /1.%20declaracion%20de%20variables/variables%20var%20y%20val.md
 
-[e declaracion de variables]: /1.%20declaracion%20de%20variables/enunciados/declaracion%20de%20variables.md
+* Operadores en Kotlin: [[uso]](/1_declaracion_variables/6_operadores.md) [[enunciados]](/1_declaracion_variables/1_enunciados/6_operadores.md) [[mis soluciones]](/soluciones/1_declaracion_variables/6_operadores.md)
 
-[m declaracion de variables]: /soluciones/1.%20declaracion%20de%20variables/declaracion%20de%20variables.md
 
-[u asignacion]: /1.%20declaracion%20de%20variables/asignacion%20de%20variables.md
-[e asignacion]: /1.%20declaracion%20de%20variables/enunciados/asignacion%20de%20variables.md
+* Concatenación de cadenas en Kotlin (con "+" y con "$") [[uso]](/1_declaracion_variables/7_concatenacion.md) [[enunciados]](/1_declaracion_variables/1_enunciados/7_concatenacion.md) [[mis soluciones]](/soluciones/1_declaracion_variables/7_concatenacion.md)
 
-[m declaracion]: /soluciones/1.%20declaracion%20de%20variables/asignacion%20de%20variables.md
 
-[u inicializacion]: /1.%20declaracion%20de%20variables/inicializacion%20de%20variables.md
+* Interpolación de cadenas en Kotlin (con "\${ }" y con "$"): [[uso]](/1_declaracion_variables/8_interpolacion.md) [[enunciados]](/1_declaracion_variables/1_enunciados/8_interpolacion.md) [[mis soluciones]](/soluciones/1_declaracion_variables/8_interpolacion.md)
 
-[e inicializacion]: /1.%20declaracion%20de%20variables/enunciados/inicializacion%20de%20variables.md
 
-[ms inicializacion]: /soluciones/1.%20declaracion%20de%20variables/inicializacion%20de%20variables.md
+* Null Safety en Kotlin: [[uso]](/1_declaracion_variables/9_null_safety.md) [[enunciados]](/1_declaracion_variables/1_enunciados/9_null_safety.md) [[mis soluciones]](/soluciones/1_declaracion_variables/9_null_safety.md)
 
-[u tiposDatos]: /1.%20declaracion%20de%20variables/tipos%20de%20datos.md
 
-[e tiposDatos]: /1.%20declaracion%20de%20variables/enunciados/tipos%20de%20datos.md
+* Declaración de  variables sin tipo (Any, Any?, Unit): [[uso]](/1_declaracion_variables/10_any.md) [[enunciados]](/1_declaracion_variables/1_enunciados/10_any.md) [[mis soluciones]](/soluciones/1_declaracion_variables/10_any.md)
 
-[u is as]: /1.%20declaracion%20de%20variables/uso%20de%20is%20y%20as.md
+### 2. Funciones
 
-[e is as]: /1.%20declaracion%20de%20variables/enunciados/uso%20de%20is%20y%20as.md
+* Declaración de funciones: [[uso]](/2_funciones/1_declaracion.md) [[enunciados]](/2_funciones/1_declaracion.md)
 
-[u conversion]: /1.%20declaracion%20de%20variables/conversion%20de%20tipos%20de%20datos.md
+* Parámetros y valores de retorno: [[uso]](/2_funciones/enunciados/2_parametros_retorno.md)[[enunciados]](/2_funciones/2_parametros_retorno.md)
 
-[e conversion]: /1.%20declaracion%20de%20variables/enunciados/conversion%20de%20tipos%20de%20datos.md
+* Funciones con valores por defecto: [[uso]](/2_funciones/3_valores_defecto.md) [[enunciados]](/2_funciones/enunciados/3_valores_defecto.md)
 
-[u operadores]: /1.%20declaracion%20de%20variables/operadores.md
+* Funciones Lambda: [[uso]](/2_funciones/4_lambda.md) [[enunciados]](/2_funciones/enunciados/4_labmda.md)
 
-[e operadores]: /1.%20declaracion%20de%20variables/enunciados/operadores.md
+### 3. Estructuras condicionales
 
-[u concatenacion]: /1.%20declaracion%20de%20variables/concatenacion%20de%20cadenas.md
+* Sentencia "if": [[uso]](/3_estructuras_condicionales/1_if.md) [[enunciados]](/3_estructuras_condicionales/enunciados/1_if.md) [[mis soluciones]](/soluciones/3_condicionales/1_if.md)
 
-[e concatenacion]: /1.%20declaracion%20de%20variables/enunciados/concatenacion%20de%20cadenas.md
 
-[u interpolacion]: /1.%20declaracion%20de%20variables/interpolacion%20de%20cadenas.md
+* Sentencia "when": [[uso]](/3_estructuras_condicionales/2_when.md) [[enunciados]](/3_estructuras_condicionales/enunciados/2_when.md) [[mis soluciones]](/soluciones/3_condicionales/2_when.md)
 
-[e interpolacion]: /1.%20declaracion%20de%20variables/enunciados/interpolacion%20de%20cadenas.md
+### 4. Bucles
 
-[u nullSafety]: /1.%20declaracion%20de%20variables/null%20safety.md
+* Bucles "for": [[uso]](/4_bucles/1_for.md) [[enunciados]](/4_bucles/enunciados/1_for.md) [[mis soluciones]](/soluciones/4_blucles/1_for.md)
 
-[e nullSafety]: /1.%20declaracion%20de%20variables/enunciados/null%20safety.md
 
-[u nullPointer]: /1.%20declaracion%20de%20variables/evitar%20el%20NullPointerException.md
+* Bucles "for each": [[uso]](/4_bucles/2_for_each.md) [[enunciados]](/4_bucles/enunciados/2_for_each.md) [[mis soluciones]](/soluciones/4_blucles/2_for_each.md)
 
-[e nullPointer]: /1.%20declaracion%20de%20variables/enunciados/evitar%20el%20NullPointerException.md
 
-[u sinTipo]: /1.%20declaracion%20de%20variables/declaracion%20de%20variables%20sin%20tipo.md
+* Bucle "while": [[uso]](/4_bucles/3_while.md) [[enunciados]](/4_bucles/enunciados/3_while.md)
 
-[e sinTipo]: /1.%20declaracion%20de%20variables/enunciados/declaracion%20de%20variables%20sin%20tipo.md
 
-[u if]: /2.%20estructuras%20condicionales/sentencia%20if.md
+* Bucle "do-while": [[uso]](/4_bucles/4_do_while.md) [[enunciados]](/4_bucles/4_do_while.md)
 
-[e if]: /2.%20estructuras%20condicionales/enunciados/sentencia%20if.md
-[u when]: /2.%20estructuras%20condicionales/sentencia%20when.md
 
-[e when]: /2.%20estructuras%20condicionales/enunciados/sentencia%20when.md
-[u multiples]: /2.%20estructuras%20condicionales/evaluar%20condiciones%20multiples.md
-
-[e multiples]: /2.%20estructuras%20condicionales/enunciados/evaluar%20condiciones%20multiples.md
-
-[u anidamientos]: /2.%20estructuras%20condicionales/anidamiento%20de%20estructuras%20condicionales.md
-
-[e anidamientos]: /2.%20estructuras%20condicionales/enunciados/anidamiento%20de%20estructuras%20condicionales.md
-
-[u for]: /3.%20bucles/for.md
-
-[e for]: /3.%20bucles/enunciados/for.md
-
-[u for anid]: /3.%20bucles/for-anidados.md
-
-[e for anid]: /3.%20bucles/enunciados/for-anidados.md
-
-[u foreach]: /3.%20bucles/for%20each.md
-
-[e foreach]: /3.%20bucles/enunciados/for%20each.md
-
-[u foreach anid]: /3.%20bucles/for-each-anidados.md
-
-[e foreach anid]: /3.%20bucles/enunciados/for-each-anidados.md
-
-[u while]: /3.%20bucles/while.md
-
-[e while]: /3.%20bucles/enunciados/while.md
-
-[u while an]: /3.%20bucles/while-anidados.md
-
-[e while an]: /3.%20bucles/enunciados/while-anidados.md
-
-[u do wh]: /3.%20bucles/do-while.md
-
-[e do wh]: /3.%20bucles/enunciados/do-while.md
-
-[u do wh an]: /3.%20bucles/do-while-anidados.md
-
-[e do wh an]: /3.%20bucles/enunciados/do-while-anidados.md
-
-[u break]: /3.%20bucles/break-y-continue.md
-
-[e break]: /3.%20bucles/enunciados/break-y-continue.md
-
-[u infinitos]: /3.%20bucles/infinitos.md
-
-[e infinitos]: /3.%20bucles/enunciados/infinitos.md
-
-[u declar]: /4.%20funciones/declaracion%20de%20funciones.md
-
-[e declar]: /4.%20funciones/enunciados/declaracion%20de%20funciones.md
-
-[u param]: /4.%20funciones/parametros%20y%20valores%20de%20retorno.md
-
-[e param]: /4.%20funciones/enunciados/parametros%20y%20valores%20de%20retorno.md
-
-[u nombre]: /4.%20funciones/con%20nombre.md
-
-[e nombre]: /4.%20funciones/enunciados/con%20nombre.md
-
-[u lambda]: /4.%20funciones/con%20expresiones%20lambda.md
-
-[e lambda]: /4.%20funciones/enunciados/con%20expresiones%20lambda.md
-
-[u defecto]: /4.%20funciones/parametros%20opcionales%20y%20valores%20por%20defecto.md
-
-[e defecto]: /4.%20funciones/enunciados/parametros%20opcionales%20y%20valores%20por%20defecto.md
-
-[u anidadas]: /4.%20funciones/anidadas.md
-
-[e anidadas]: /4.%20funciones/enunciados/anidadas.md
-
-[u am bloque]: /4.%20funciones/con%20ambito%20de%20bloque.md
-
-[u inlining]: /4.%20funciones/inlining.md
-
-[e inlining]: /4.%20funciones/enunciados/inlining.md
-
-[u param var]: /4.%20funciones/parametros%20variables.md
-
-[e parm var]: /4.%20funciones/enunciados/parametros%20variables.md
-
-[u genericas]: /4.%20funciones/parametros%20de%20tipo%20clase%20generica.md
-
-[e genericas]: /4.%20funciones/enunciados/parametros%20de%20tipo%20clase%20generica.md
-
-[u extension]: /4.%20funciones/de%20extension.md
-
-[e extension]: /4.%20funciones/enunciados/de%20extension.md
-[ms tiposdedatos]: /soluciones/1.%20declaracion%20de%20variables/tipos%20de%20datos.md
-[ms operadores]: /soluciones/1.%20declaracion%20de%20variables/operadores.md
-[ms if]: /soluciones/2.%20estructuras%20condicionales/sentencia%20if.md
-[ms when]: /soluciones/2.%20estructuras%20condicionales/sentencia%20when.md
-[ms for]: /soluciones/3.%20Bucles/for.md
-[msforeacg]: /soluciones/3.%20Bucles/forEach.md
