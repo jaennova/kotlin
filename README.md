@@ -1,7 +1,6 @@
 # Aprende Kotlin con ejercicios
 
-![banner](/banner.png)
-
+![kotlin](https://socialify.git.ci/jaennova/kotlin/image?font=Source%20Code%20Pro&forks=1&language=1&logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F74%2FKotlin_Icon.png%2F900px-Kotlin_Icon.png&name=1&owner=1&pattern=Solid&stargazers=1&theme=Auto)
   ----
 
 ## Indice
